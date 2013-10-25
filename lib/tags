@@ -1,0 +1,1493 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.7	//
+AMIGACONFIG_H	.\amigaconfig.h	2;"	d
+ASCII_0	.\ascii.h	59;"	d
+ASCII_1	.\ascii.h	60;"	d
+ASCII_2	.\ascii.h	61;"	d
+ASCII_3	.\ascii.h	62;"	d
+ASCII_4	.\ascii.h	63;"	d
+ASCII_5	.\ascii.h	64;"	d
+ASCII_6	.\ascii.h	65;"	d
+ASCII_7	.\ascii.h	66;"	d
+ASCII_8	.\ascii.h	67;"	d
+ASCII_9	.\ascii.h	68;"	d
+ASCII_A	.\ascii.h	5;"	d
+ASCII_AMP	.\ascii.h	74;"	d
+ASCII_APOS	.\ascii.h	75;"	d
+ASCII_B	.\ascii.h	6;"	d
+ASCII_C	.\ascii.h	7;"	d
+ASCII_COLON	.\ascii.h	78;"	d
+ASCII_COMMA	.\ascii.h	92;"	d
+ASCII_D	.\ascii.h	8;"	d
+ASCII_E	.\ascii.h	9;"	d
+ASCII_EQUALS	.\ascii.h	81;"	d
+ASCII_EXCL	.\ascii.h	72;"	d
+ASCII_F	.\ascii.h	10;"	d
+ASCII_FF	.\ascii.h	88;"	d
+ASCII_G	.\ascii.h	11;"	d
+ASCII_GT	.\ascii.h	82;"	d
+ASCII_H	.\ascii.h	12;"	d
+ASCII_HASH	.\ascii.h	90;"	d
+ASCII_I	.\ascii.h	13;"	d
+ASCII_J	.\ascii.h	14;"	d
+ASCII_K	.\ascii.h	15;"	d
+ASCII_L	.\ascii.h	16;"	d
+ASCII_LPAREN	.\ascii.h	86;"	d
+ASCII_LSQB	.\ascii.h	83;"	d
+ASCII_LT	.\ascii.h	80;"	d
+ASCII_M	.\ascii.h	17;"	d
+ASCII_MINUS	.\ascii.h	76;"	d
+ASCII_N	.\ascii.h	18;"	d
+ASCII_O	.\ascii.h	19;"	d
+ASCII_P	.\ascii.h	20;"	d
+ASCII_PERIOD	.\ascii.h	77;"	d
+ASCII_PIPE	.\ascii.h	91;"	d
+ASCII_Q	.\ascii.h	21;"	d
+ASCII_QUOT	.\ascii.h	73;"	d
+ASCII_R	.\ascii.h	22;"	d
+ASCII_RPAREN	.\ascii.h	87;"	d
+ASCII_RSQB	.\ascii.h	84;"	d
+ASCII_S	.\ascii.h	23;"	d
+ASCII_SEMI	.\ascii.h	79;"	d
+ASCII_SLASH	.\ascii.h	89;"	d
+ASCII_SPACE	.\ascii.h	71;"	d
+ASCII_T	.\ascii.h	24;"	d
+ASCII_TAB	.\ascii.h	70;"	d
+ASCII_U	.\ascii.h	25;"	d
+ASCII_UNDERSCORE	.\ascii.h	85;"	d
+ASCII_V	.\ascii.h	26;"	d
+ASCII_W	.\ascii.h	27;"	d
+ASCII_X	.\ascii.h	28;"	d
+ASCII_Y	.\ascii.h	29;"	d
+ASCII_Z	.\ascii.h	30;"	d
+ASCII_a	.\ascii.h	32;"	d
+ASCII_b	.\ascii.h	33;"	d
+ASCII_c	.\ascii.h	34;"	d
+ASCII_d	.\ascii.h	35;"	d
+ASCII_e	.\ascii.h	36;"	d
+ASCII_f	.\ascii.h	37;"	d
+ASCII_g	.\ascii.h	38;"	d
+ASCII_h	.\ascii.h	39;"	d
+ASCII_i	.\ascii.h	40;"	d
+ASCII_j	.\ascii.h	41;"	d
+ASCII_k	.\ascii.h	42;"	d
+ASCII_l	.\ascii.h	43;"	d
+ASCII_m	.\ascii.h	44;"	d
+ASCII_n	.\ascii.h	45;"	d
+ASCII_o	.\ascii.h	46;"	d
+ASCII_p	.\ascii.h	47;"	d
+ASCII_q	.\ascii.h	48;"	d
+ASCII_r	.\ascii.h	49;"	d
+ASCII_s	.\ascii.h	50;"	d
+ASCII_t	.\ascii.h	51;"	d
+ASCII_u	.\ascii.h	52;"	d
+ASCII_v	.\ascii.h	53;"	d
+ASCII_w	.\ascii.h	54;"	d
+ASCII_x	.\ascii.h	55;"	d
+ASCII_y	.\ascii.h	56;"	d
+ASCII_z	.\ascii.h	57;"	d
+AS_NORMAL_ENCODING	.\xmltok.c	197;"	d	file:
+AS_UNKNOWN_ENCODING	.\xmltok.c	1255;"	d	file:
+ATTRIBUTE	.\xmltok.h	/^} ATTRIBUTE;$/;"	t	typeref:struct:__anon20
+ATTRIBUTE_ID	.\xmlparse.c	/^} ATTRIBUTE_ID;$/;"	t	typeref:struct:attribute_id	file:
+BIG2_BYTE_TO_ASCII	.\xmltok.c	784;"	d	file:
+BIG2_BYTE_TYPE	.\xmltok.c	780;"	d	file:
+BIG2_CHAR_MATCHES	.\xmltok.c	785;"	d	file:
+BIG2_IS_NAME_CHAR_MINBPC	.\xmltok.c	786;"	d	file:
+BIG2_IS_NMSTRT_CHAR_MINBPC	.\xmltok.c	788;"	d	file:
+BINDING	.\xmlparse.c	/^} BINDING;$/;"	t	typeref:struct:binding	file:
+BLOCK	.\xmlparse.c	/^} BLOCK;$/;"	t	typeref:struct:block	file:
+BT_AMP	.\xmltok_impl.h	/^  BT_AMP,$/;"	e	enum:__anon22
+BT_APOS	.\xmltok_impl.h	/^  BT_APOS,$/;"	e	enum:__anon22
+BT_AST	.\xmltok_impl.h	/^  BT_AST,$/;"	e	enum:__anon22
+BT_COLON	.\xmltok.c	396;"	d	file:
+BT_COLON	.\xmltok.c	398;"	d	file:
+BT_COLON	.\xmltok.c	420;"	d	file:
+BT_COLON	.\xmltok.c	422;"	d	file:
+BT_COLON	.\xmltok.c	478;"	d	file:
+BT_COLON	.\xmltok.c	480;"	d	file:
+BT_COLON	.\xmltok.c	511;"	d	file:
+BT_COLON	.\xmltok.c	513;"	d	file:
+BT_COLON	.\xmltok.c	743;"	d	file:
+BT_COLON	.\xmltok.c	745;"	d	file:
+BT_COLON	.\xmltok.c	769;"	d	file:
+BT_COLON	.\xmltok.c	771;"	d	file:
+BT_COLON	.\xmltok.c	884;"	d	file:
+BT_COLON	.\xmltok.c	886;"	d	file:
+BT_COLON	.\xmltok.c	910;"	d	file:
+BT_COLON	.\xmltok.c	912;"	d	file:
+BT_COLON	.\xmltok_impl.h	/^  BT_COLON,$/;"	e	enum:__anon22
+BT_COMMA	.\xmltok_impl.h	/^  BT_COMMA,$/;"	e	enum:__anon22
+BT_CR	.\xmltok_impl.h	/^  BT_CR,$/;"	e	enum:__anon22
+BT_DIGIT	.\xmltok_impl.h	/^  BT_DIGIT,$/;"	e	enum:__anon22
+BT_EQUALS	.\xmltok_impl.h	/^  BT_EQUALS,$/;"	e	enum:__anon22
+BT_EXCL	.\xmltok_impl.h	/^  BT_EXCL,$/;"	e	enum:__anon22
+BT_GT	.\xmltok_impl.h	/^  BT_GT,$/;"	e	enum:__anon22
+BT_HEX	.\xmltok_impl.h	/^  BT_HEX,$/;"	e	enum:__anon22
+BT_LEAD2	.\xmltok_impl.h	/^  BT_LEAD2,$/;"	e	enum:__anon22
+BT_LEAD3	.\xmltok_impl.h	/^  BT_LEAD3,$/;"	e	enum:__anon22
+BT_LEAD4	.\xmltok_impl.h	/^  BT_LEAD4,$/;"	e	enum:__anon22
+BT_LF	.\xmltok_impl.h	/^  BT_LF,$/;"	e	enum:__anon22
+BT_LPAR	.\xmltok_impl.h	/^  BT_LPAR,$/;"	e	enum:__anon22
+BT_LSQB	.\xmltok_impl.h	/^  BT_LSQB,$/;"	e	enum:__anon22
+BT_LT	.\xmltok_impl.h	/^  BT_LT,$/;"	e	enum:__anon22
+BT_MALFORM	.\xmltok_impl.h	/^  BT_MALFORM,$/;"	e	enum:__anon22
+BT_MINUS	.\xmltok_impl.h	/^  BT_MINUS,$/;"	e	enum:__anon22
+BT_NAME	.\xmltok_impl.h	/^  BT_NAME,$/;"	e	enum:__anon22
+BT_NMSTRT	.\xmltok_impl.h	/^  BT_NMSTRT,$/;"	e	enum:__anon22
+BT_NONASCII	.\xmltok_impl.h	/^  BT_NONASCII, \/* might be a name or name start character *\/$/;"	e	enum:__anon22
+BT_NONXML	.\xmltok_impl.h	/^  BT_NONXML,$/;"	e	enum:__anon22
+BT_NUM	.\xmltok_impl.h	/^  BT_NUM,$/;"	e	enum:__anon22
+BT_OTHER	.\xmltok_impl.h	/^  BT_OTHER, \/* known not to be a name or name start character *\/$/;"	e	enum:__anon22
+BT_PERCNT	.\xmltok_impl.h	/^  BT_PERCNT,$/;"	e	enum:__anon22
+BT_PLUS	.\xmltok_impl.h	/^  BT_PLUS,$/;"	e	enum:__anon22
+BT_QUEST	.\xmltok_impl.h	/^  BT_QUEST,$/;"	e	enum:__anon22
+BT_QUOT	.\xmltok_impl.h	/^  BT_QUOT,$/;"	e	enum:__anon22
+BT_RPAR	.\xmltok_impl.h	/^  BT_RPAR,$/;"	e	enum:__anon22
+BT_RSQB	.\xmltok_impl.h	/^  BT_RSQB,$/;"	e	enum:__anon22
+BT_S	.\xmltok_impl.h	/^  BT_S,$/;"	e	enum:__anon22
+BT_SEMI	.\xmltok_impl.h	/^  BT_SEMI,$/;"	e	enum:__anon22
+BT_SOL	.\xmltok_impl.h	/^  BT_SOL,$/;"	e	enum:__anon22
+BT_TRAIL	.\xmltok_impl.h	/^  BT_TRAIL,$/;"	e	enum:__anon22
+BT_VERBAR	.\xmltok_impl.h	/^  BT_VERBAR$/;"	e	enum:__anon22
+BYTEORDER	.\amigaconfig.h	5;"	d
+BYTEORDER	.\macconfig.h	16;"	d
+BYTEORDER	.\winconfig.h	25;"	d
+BYTE_TO_ASCII	.\xmltok.c	258;"	d	file:
+BYTE_TO_ASCII	.\xmltok.c	266;"	d	file:
+BYTE_TO_ASCII	.\xmltok.c	306;"	d	file:
+BYTE_TO_ASCII	.\xmltok.c	833;"	d	file:
+BYTE_TO_ASCII	.\xmltok.c	846;"	d	file:
+BYTE_TYPE	.\xmltok.c	251;"	d	file:
+BYTE_TYPE	.\xmltok.c	254;"	d	file:
+BYTE_TYPE	.\xmltok.c	305;"	d	file:
+BYTE_TYPE	.\xmltok.c	832;"	d	file:
+BYTE_TYPE	.\xmltok.c	845;"	d	file:
+CHAR_HASH	.\xmlparse.c	108;"	d	file:
+CHAR_HASH	.\xmlparse.c	111;"	d	file:
+CHAR_MATCHES	.\xmltok.c	287;"	d	file:
+CHAR_MATCHES	.\xmltok.c	296;"	d	file:
+CHAR_MATCHES	.\xmltok.c	307;"	d	file:
+CHAR_MATCHES	.\xmltok.c	834;"	d	file:
+CHAR_MATCHES	.\xmltok.c	847;"	d	file:
+CHECK_NAME_CASE	.\xmltok_impl.c	1778;"	d	file:
+CHECK_NAME_CASE	.\xmltok_impl.c	33;"	d	file:
+CHECK_NAME_CASES	.\xmltok_impl.c	1779;"	d	file:
+CHECK_NAME_CASES	.\xmltok_impl.c	44;"	d	file:
+CHECK_NMSTRT_CASE	.\xmltok_impl.c	1780;"	d	file:
+CHECK_NMSTRT_CASE	.\xmltok_impl.c	61;"	d	file:
+CHECK_NMSTRT_CASES	.\xmltok_impl.c	1781;"	d	file:
+CHECK_NMSTRT_CASES	.\xmltok_impl.c	72;"	d	file:
+CONTENT_SCAFFOLD	.\xmlparse.c	/^} CONTENT_SCAFFOLD;$/;"	t	typeref:struct:__anon11	file:
+CONTEXT_SEP	.\xmlparse.c	5378;"	d	file:
+CONVERTER	.\xmltok.h	/^typedef int (XMLCALL *CONVERTER) (void *userData, const char *p);$/;"	t
+DEFAULT_ATTRIBUTE	.\xmlparse.c	/^} DEFAULT_ATTRIBUTE;$/;"	t	typeref:struct:__anon13	file:
+DEFINE_UTF16_TO_UTF16	.\xmltok.c	601;"	d	file:
+DEFINE_UTF16_TO_UTF8	.\xmltok.c	538;"	d	file:
+DO_LEAD_CASE	.\xmltok_impl.c	1775;"	d	file:
+DTD	.\xmlparse.c	/^} DTD;$/;"	t	typeref:struct:__anon16	file:
+ELEMENT_TYPE	.\xmlparse.c	/^} ELEMENT_TYPE;$/;"	t	typeref:struct:__anon15	file:
+ENCODING	.\xmltok.h	/^typedef struct encoding ENCODING;$/;"	t	typeref:struct:encoding
+ENCODING_MAX	.\xmltok_ns.c	74;"	d	file:
+ENTITY	.\xmlparse.c	/^} ENTITY;$/;"	t	typeref:struct:__anon10	file:
+EXPAND_SPARE	.\xmlparse.c	140;"	d	file:
+Expat_External_INCLUDED	.\expat_external.h	6;"	d
+Expat_INCLUDED	.\expat.h	6;"	d
+FASTCALL	.\internal.h	33;"	d
+FASTCALL	.\internal.h	48;"	d
+FREE	.\xmlparse.c	553;"	d	file:
+GET_HI	.\xmltok.c	618;"	d	file:
+GET_HI	.\xmltok.c	625;"	d	file:
+GET_HI	.\xmltok.c	630;"	d	file:
+GET_HI	.\xmltok.c	637;"	d	file:
+GET_LO	.\xmltok.c	617;"	d	file:
+GET_LO	.\xmltok.c	624;"	d	file:
+GET_LO	.\xmltok.c	629;"	d	file:
+GET_LO	.\xmltok.c	636;"	d	file:
+HASH_TABLE	.\xmlparse.c	/^} HASH_TABLE;$/;"	t	typeref:struct:__anon7	file:
+HASH_TABLE_ITER	.\xmlparse.c	/^} HASH_TABLE_ITER;$/;"	t	typeref:struct:__anon8	file:
+HAVE_BCOPY	.\amigaconfig.h	8;"	d
+HAVE_BCOPY	.\macconfig.h	19;"	d
+HAVE_CHECK_H	.\amigaconfig.h	11;"	d
+HAVE_MEMMOVE	.\amigaconfig.h	14;"	d
+HAVE_MEMMOVE	.\macconfig.h	22;"	d
+HAVE_MEMMOVE	.\winconfig.h	28;"	d
+HAVE_MMAP	.\macconfig.h	25;"	d
+HAVE_UNISTD_H	.\amigaconfig.h	17;"	d
+HAVE_UNISTD_H	.\macconfig.h	28;"	d
+ICHAR	.\xmlparse.c	/^typedef char ICHAR;$/;"	t	file:
+ICHAR	.\xmlparse.c	/^typedef unsigned short ICHAR;$/;"	t	file:
+IGNORE_SECTION_TOK_VTABLE	.\xmltok.c	27;"	d	file:
+IGNORE_SECTION_TOK_VTABLE	.\xmltok.c	29;"	d	file:
+INIT_ATTS_SIZE	.\xmlparse.c	135;"	d	file:
+INIT_ATTS_VERSION	.\xmlparse.c	136;"	d	file:
+INIT_BLOCK_SIZE	.\xmlparse.c	137;"	d	file:
+INIT_BUFFER_SIZE	.\xmlparse.c	138;"	d	file:
+INIT_DATA_BUF_SIZE	.\xmlparse.c	134;"	d	file:
+INIT_ENCODING	.\xmltok.h	/^} INIT_ENCODING;$/;"	t	typeref:struct:__anon21
+INIT_ENC_INDEX	.\xmltok.c	1485;"	d	file:
+INIT_POWER	.\xmlparse.c	5834;"	d	file:
+INIT_SCAFFOLD_ELEMENTS	.\xmlparse.c	213;"	d	file:
+INIT_TAG_BUF_SIZE	.\xmlparse.c	133;"	d	file:
+INVALID_CASES	.\xmltok_impl.c	1777;"	d	file:
+INVALID_CASES	.\xmltok_impl.c	23;"	d	file:
+INVALID_LEAD_CASE	.\xmltok_impl.c	12;"	d	file:
+ISO_8859_1_ENC	.\xmltok.c	/^  ISO_8859_1_ENC = 0,$/;"	e	enum:__anon19	file:
+IS_INVALID_CHAR	.\xmltok.c	273;"	d	file:
+IS_INVALID_CHAR	.\xmltok.c	312;"	d	file:
+IS_INVALID_CHAR	.\xmltok.c	852;"	d	file:
+IS_INVALID_CHAR	.\xmltok_impl.c	9;"	d	file:
+IS_NAME_CHAR	.\xmltok.c	269;"	d	file:
+IS_NAME_CHAR	.\xmltok.c	308;"	d	file:
+IS_NAME_CHAR	.\xmltok.c	835;"	d	file:
+IS_NAME_CHAR	.\xmltok.c	848;"	d	file:
+IS_NAME_CHAR_MINBPC	.\xmltok.c	277;"	d	file:
+IS_NAME_CHAR_MINBPC	.\xmltok.c	282;"	d	file:
+IS_NAME_CHAR_MINBPC	.\xmltok.c	309;"	d	file:
+IS_NAME_CHAR_MINBPC	.\xmltok.c	836;"	d	file:
+IS_NAME_CHAR_MINBPC	.\xmltok.c	849;"	d	file:
+IS_NMSTRT_CHAR	.\xmltok.c	271;"	d	file:
+IS_NMSTRT_CHAR	.\xmltok.c	310;"	d	file:
+IS_NMSTRT_CHAR	.\xmltok.c	837;"	d	file:
+IS_NMSTRT_CHAR	.\xmltok.c	850;"	d	file:
+IS_NMSTRT_CHAR_MINBPC	.\xmltok.c	279;"	d	file:
+IS_NMSTRT_CHAR_MINBPC	.\xmltok.c	283;"	d	file:
+IS_NMSTRT_CHAR_MINBPC	.\xmltok.c	311;"	d	file:
+IS_NMSTRT_CHAR_MINBPC	.\xmltok.c	838;"	d	file:
+IS_NMSTRT_CHAR_MINBPC	.\xmltok.c	851;"	d	file:
+KEY	.\xmlparse.c	/^typedef const XML_Char *KEY;$/;"	t	file:
+KW_ANY	.\xmlrole.c	/^static const char KW_ANY[] = {$/;"	v	file:
+KW_ATTLIST	.\xmlrole.c	/^static const char KW_ATTLIST[] = {$/;"	v	file:
+KW_CDATA	.\xmlrole.c	/^static const char KW_CDATA[] = {$/;"	v	file:
+KW_DOCTYPE	.\xmlrole.c	/^static const char KW_DOCTYPE[] = {$/;"	v	file:
+KW_ELEMENT	.\xmlrole.c	/^static const char KW_ELEMENT[] = {$/;"	v	file:
+KW_EMPTY	.\xmlrole.c	/^static const char KW_EMPTY[] = {$/;"	v	file:
+KW_ENTITIES	.\xmlrole.c	/^static const char KW_ENTITIES[] = {$/;"	v	file:
+KW_ENTITY	.\xmlrole.c	/^static const char KW_ENTITY[] = {$/;"	v	file:
+KW_FIXED	.\xmlrole.c	/^static const char KW_FIXED[] = {$/;"	v	file:
+KW_ID	.\xmlrole.c	/^static const char KW_ID[] = {$/;"	v	file:
+KW_IDREF	.\xmlrole.c	/^static const char KW_IDREF[] = {$/;"	v	file:
+KW_IDREFS	.\xmlrole.c	/^static const char KW_IDREFS[] = {$/;"	v	file:
+KW_IGNORE	.\xmlrole.c	/^static const char KW_IGNORE[] = {$/;"	v	file:
+KW_IMPLIED	.\xmlrole.c	/^static const char KW_IMPLIED[] = {$/;"	v	file:
+KW_INCLUDE	.\xmlrole.c	/^static const char KW_INCLUDE[] = {$/;"	v	file:
+KW_ISO_8859_1	.\xmltok.c	/^static const char KW_ISO_8859_1[] = {$/;"	v	file:
+KW_NDATA	.\xmlrole.c	/^static const char KW_NDATA[] = {$/;"	v	file:
+KW_NMTOKEN	.\xmlrole.c	/^static const char KW_NMTOKEN[] = {$/;"	v	file:
+KW_NMTOKENS	.\xmlrole.c	/^static const char KW_NMTOKENS[] = {$/;"	v	file:
+KW_NOTATION	.\xmlrole.c	/^static const char KW_NOTATION[] =$/;"	v	file:
+KW_PCDATA	.\xmlrole.c	/^static const char KW_PCDATA[] = {$/;"	v	file:
+KW_PUBLIC	.\xmlrole.c	/^static const char KW_PUBLIC[] = {$/;"	v	file:
+KW_REQUIRED	.\xmlrole.c	/^static const char KW_REQUIRED[] = {$/;"	v	file:
+KW_SYSTEM	.\xmlrole.c	/^static const char KW_SYSTEM[] = {$/;"	v	file:
+KW_US_ASCII	.\xmltok.c	/^static const char KW_US_ASCII[] = {$/;"	v	file:
+KW_UTF_16	.\xmltok.c	/^static const char KW_UTF_16[] = {$/;"	v	file:
+KW_UTF_16BE	.\xmltok.c	/^static const char KW_UTF_16BE[] = {$/;"	v	file:
+KW_UTF_16LE	.\xmltok.c	/^static const char KW_UTF_16LE[] = {$/;"	v	file:
+KW_UTF_8	.\xmltok.c	/^static const char KW_UTF_8[] =  {$/;"	v	file:
+KW_encoding	.\xmltok.c	/^static const char KW_encoding[] = {$/;"	v	file:
+KW_no	.\xmltok.c	/^static const char KW_no[] = {$/;"	v	file:
+KW_standalone	.\xmltok.c	/^static const char KW_standalone[] = {$/;"	v	file:
+KW_version	.\xmltok.c	/^static const char KW_version[] = {$/;"	v	file:
+KW_yes	.\xmltok.c	/^static const char KW_yes[] = {$/;"	v	file:
+LEAD_CASE	.\xmltok_impl.c	1096;"	d	file:
+LEAD_CASE	.\xmltok_impl.c	1113;"	d	file:
+LEAD_CASE	.\xmltok_impl.c	1212;"	d	file:
+LEAD_CASE	.\xmltok_impl.c	1215;"	d	file:
+LEAD_CASE	.\xmltok_impl.c	1270;"	d	file:
+LEAD_CASE	.\xmltok_impl.c	1273;"	d	file:
+LEAD_CASE	.\xmltok_impl.c	1449;"	d	file:
+LEAD_CASE	.\xmltok_impl.c	1452;"	d	file:
+LEAD_CASE	.\xmltok_impl.c	1626;"	d	file:
+LEAD_CASE	.\xmltok_impl.c	1631;"	d	file:
+LEAD_CASE	.\xmltok_impl.c	1704;"	d	file:
+LEAD_CASE	.\xmltok_impl.c	1707;"	d	file:
+LEAD_CASE	.\xmltok_impl.c	1749;"	d	file:
+LEAD_CASE	.\xmltok_impl.c	1754;"	d	file:
+LEAD_CASE	.\xmltok_impl.c	353;"	d	file:
+LEAD_CASE	.\xmltok_impl.c	362;"	d	file:
+LEAD_CASE	.\xmltok_impl.c	837;"	d	file:
+LEAD_CASE	.\xmltok_impl.c	846;"	d	file:
+LITTLE2_BYTE_TO_ASCII	.\xmltok.c	643;"	d	file:
+LITTLE2_BYTE_TYPE	.\xmltok.c	639;"	d	file:
+LITTLE2_CHAR_MATCHES	.\xmltok.c	644;"	d	file:
+LITTLE2_IS_NAME_CHAR_MINBPC	.\xmltok.c	645;"	d	file:
+LITTLE2_IS_NMSTRT_CHAR_MINBPC	.\xmltok.c	647;"	d	file:
+MACCONFIG_H	.\macconfig.h	12;"	d
+MALLOC	.\xmlparse.c	551;"	d	file:
+MINBPC	.\xmltok.c	236;"	d	file:
+MINBPC	.\xmltok.c	239;"	d	file:
+MINBPC	.\xmltok.c	304;"	d	file:
+MINBPC	.\xmltok.c	830;"	d	file:
+MINBPC	.\xmltok.c	844;"	d	file:
+MIN_BYTES_PER_CHAR	.\xmlrole.c	89;"	d	file:
+MULTIBYTE_CASES	.\xmltok_impl.c	1776;"	d	file:
+MUST_CONVERT	.\xmlparse.c	33;"	d	file:
+MUST_CONVERT	.\xmlparse.c	41;"	d	file:
+NAMED	.\xmlparse.c	/^} NAMED;$/;"	t	typeref:struct:__anon6	file:
+NORMAL_VTABLE	.\xmltok.c	214;"	d	file:
+NO_ENC	.\xmltok.c	/^  NO_ENC$/;"	e	enum:__anon19	file:
+NS	.\xmltok.c	1619;"	d	file:
+NS	.\xmltok.c	1624;"	d	file:
+NS	.\xmltok.c	1629;"	d	file:
+NS	.\xmltok.c	1636;"	d	file:
+NS_ATT	.\xmlparse.c	/^} NS_ATT;$/;"	t	typeref:struct:__anon14	file:
+OPEN_INTERNAL_ENTITY	.\xmlparse.c	/^} OPEN_INTERNAL_ENTITY;$/;"	t	typeref:struct:open_internal_entity	file:
+POSITION	.\xmltok.h	/^} POSITION;$/;"	t	typeref:struct:position
+PREFIX	.\xmlparse.c	/^} PREFIX;$/;"	t	typeref:struct:prefix	file:
+PREFIX	.\xmltok.c	299;"	d	file:
+PREFIX	.\xmltok.c	828;"	d	file:
+PREFIX	.\xmltok.c	829;"	d	file:
+PREFIX	.\xmltok.c	920;"	d	file:
+PREFIX	.\xmltok_impl.c	87;"	d	file:
+PROBE_STEP	.\xmlparse.c	125;"	d	file:
+PROLOG_HANDLER	.\xmlrole.c	/^typedef int PTRCALL PROLOG_HANDLER(PROLOG_STATE *state,$/;"	t	file:
+PROLOG_STATE	.\xmlrole.h	/^} PROLOG_STATE;$/;"	t	typeref:struct:prolog_state
+PTRCALL	.\internal.h	52;"	d
+PTRFASTCALL	.\internal.h	34;"	d
+PTRFASTCALL	.\internal.h	56;"	d
+Processor	.\xmlparse.c	/^typedef enum XML_Error PTRCALL Processor(XML_Parser parser,$/;"	t	typeref:enum:Processor	file:
+REALLOC	.\xmlparse.c	552;"	d	file:
+ROUND_UP	.\xmlparse.c	74;"	d	file:
+SB_BYTE_TYPE	.\xmltok.c	242;"	d	file:
+SCANNER	.\xmltok.h	/^typedef int (PTRCALL *SCANNER)(const ENCODING *,$/;"	t
+SECOND_HASH	.\xmlparse.c	123;"	d	file:
+SET2	.\xmltok.c	615;"	d	file:
+SET2	.\xmltok.c	623;"	d	file:
+SET2	.\xmltok.c	627;"	d	file:
+SET2	.\xmltok.c	635;"	d	file:
+SET_INIT_ENC_INDEX	.\xmltok.c	1486;"	d	file:
+STANDARD_VTABLE	.\xmltok.c	201;"	d	file:
+STANDARD_VTABLE	.\xmltok.c	210;"	d	file:
+START_NAME	.\xmltok_impl.c	1441;"	d	file:
+START_NAME	.\xmltok_impl.c	1458;"	d	file:
+STRING_POOL	.\xmlparse.c	/^} STRING_POOL;$/;"	t	typeref:struct:__anon12	file:
+TAG	.\xmlparse.c	/^} TAG;$/;"	t	typeref:struct:tag	file:
+TAG_NAME	.\xmlparse.c	/^} TAG_NAME;$/;"	t	typeref:struct:__anon9	file:
+UCS2_GET_NAMING	.\xmltok.c	48;"	d	file:
+UNKNOWN_ENC	.\xmltok.c	/^  UNKNOWN_ENC = -1,$/;"	e	enum:__anon19	file:
+US_ASCII_ENC	.\xmltok.c	/^  US_ASCII_ENC,$/;"	e	enum:__anon19	file:
+UTF8_GET_NAMING	.\xmltok.c	74;"	d	file:
+UTF8_GET_NAMING2	.\xmltok.c	55;"	d	file:
+UTF8_GET_NAMING3	.\xmltok.c	66;"	d	file:
+UTF8_INVALID2	.\xmltok.c	91;"	d	file:
+UTF8_INVALID3	.\xmltok.c	94;"	d	file:
+UTF8_INVALID4	.\xmltok.c	111;"	d	file:
+UTF8_cval1	.\xmltok.c	/^  UTF8_cval1 = 0x00,$/;"	e	enum:__anon18	file:
+UTF8_cval2	.\xmltok.c	/^  UTF8_cval2 = 0xc0,$/;"	e	enum:__anon18	file:
+UTF8_cval3	.\xmltok.c	/^  UTF8_cval3 = 0xe0,$/;"	e	enum:__anon18	file:
+UTF8_cval4	.\xmltok.c	/^  UTF8_cval4 = 0xf0$/;"	e	enum:__anon18	file:
+UTF_16BE_ENC	.\xmltok.c	/^  UTF_16BE_ENC,$/;"	e	enum:__anon19	file:
+UTF_16LE_ENC	.\xmltok.c	/^  UTF_16LE_ENC,$/;"	e	enum:__anon19	file:
+UTF_16_ENC	.\xmltok.c	/^  UTF_16_ENC,$/;"	e	enum:__anon19	file:
+UTF_8_ENC	.\xmltok.c	/^  UTF_8_ENC,$/;"	e	enum:__anon19	file:
+V1	.\xmlparse.c	1909;"	d	file:
+V1	.\xmlparse.c	1914;"	d	file:
+V2	.\xmlparse.c	1910;"	d	file:
+V2	.\xmlparse.c	1915;"	d	file:
+VTABLE	.\xmltok.c	46;"	d	file:
+VTABLE	.\xmltok.c	682;"	d	file:
+VTABLE	.\xmltok.c	683;"	d	file:
+VTABLE	.\xmltok.c	823;"	d	file:
+VTABLE	.\xmltok.c	824;"	d	file:
+VTABLE1	.\xmltok.c	32;"	d	file:
+WIN32_LEAN_AND_MEAN	.\winconfig.h	13;"	d
+WIN32_LEAN_AND_MEAN	.\winconfig.h	15;"	d
+WINCONFIG_H	.\winconfig.h	11;"	d
+WORDS_BIGENDIAN	.\amigaconfig.h	20;"	d
+WORDS_BIGENDIAN	.\macconfig.h	31;"	d
+XMLCALL	.\expat_external.h	38;"	d
+XMLCALL	.\expat_external.h	40;"	d
+XMLCALL	.\expat_external.h	52;"	d
+XMLIMPORT	.\expat_external.h	62;"	d
+XMLIMPORT	.\expat_external.h	71;"	d
+XMLPARSEAPI	.\expat_external.h	75;"	d
+XML_ATTRIBUTE_VALUE_LITERAL	.\xmltok.h	104;"	d
+XML_AttlistDeclHandler	.\expat.h	/^typedef void (XMLCALL *XML_AttlistDeclHandler) ($/;"	t
+XML_BUILDING_EXPAT	.\xmlparse.c	9;"	d	file:
+XML_Bool	.\expat.h	/^typedef unsigned char XML_Bool;$/;"	t
+XML_CDATA_SECTION_STATE	.\xmltok.h	98;"	d
+XML_CONTENT_STATE	.\xmltok.h	97;"	d
+XML_CONTEXT_BYTES	.\amigaconfig.h	24;"	d
+XML_CONTEXT_BYTES	.\macconfig.h	35;"	d
+XML_CONTEXT_BYTES	.\winconfig.h	22;"	d
+XML_CQUANT_NONE	.\expat.h	/^  XML_CQUANT_NONE,$/;"	e	enum:XML_Content_Quant
+XML_CQUANT_OPT	.\expat.h	/^  XML_CQUANT_OPT,$/;"	e	enum:XML_Content_Quant
+XML_CQUANT_PLUS	.\expat.h	/^  XML_CQUANT_PLUS$/;"	e	enum:XML_Content_Quant
+XML_CQUANT_REP	.\expat.h	/^  XML_CQUANT_REP,$/;"	e	enum:XML_Content_Quant
+XML_CTYPE_ANY	.\expat.h	/^  XML_CTYPE_ANY,$/;"	e	enum:XML_Content_Type
+XML_CTYPE_CHOICE	.\expat.h	/^  XML_CTYPE_CHOICE,$/;"	e	enum:XML_Content_Type
+XML_CTYPE_EMPTY	.\expat.h	/^  XML_CTYPE_EMPTY = 1,$/;"	e	enum:XML_Content_Type
+XML_CTYPE_MIXED	.\expat.h	/^  XML_CTYPE_MIXED,$/;"	e	enum:XML_Content_Type
+XML_CTYPE_NAME	.\expat.h	/^  XML_CTYPE_NAME,$/;"	e	enum:XML_Content_Type
+XML_CTYPE_SEQ	.\expat.h	/^  XML_CTYPE_SEQ$/;"	e	enum:XML_Content_Type
+XML_Char	.\expat_external.h	/^typedef char XML_Char;$/;"	t
+XML_Char	.\expat_external.h	/^typedef unsigned short XML_Char;$/;"	t
+XML_Char	.\expat_external.h	/^typedef wchar_t XML_Char;$/;"	t
+XML_CharacterDataHandler	.\expat.h	/^typedef void (XMLCALL *XML_CharacterDataHandler) (void *userData,$/;"	t
+XML_CommentHandler	.\expat.h	/^typedef void (XMLCALL *XML_CommentHandler) (void *userData,$/;"	t
+XML_Content	.\expat.h	/^typedef struct XML_cp XML_Content;$/;"	t	typeref:struct:XML_cp
+XML_Content_Quant	.\expat.h	/^enum XML_Content_Quant {$/;"	g
+XML_Content_Type	.\expat.h	/^enum XML_Content_Type {$/;"	g
+XML_DTD	.\amigaconfig.h	27;"	d
+XML_DTD	.\macconfig.h	38;"	d
+XML_DTD	.\winconfig.h	21;"	d
+XML_DefaultCurrent	.\xmlparse.c	/^XML_DefaultCurrent(XML_Parser parser)$/;"	f
+XML_DefaultHandler	.\expat.h	/^typedef void (XMLCALL *XML_DefaultHandler) (void *userData,$/;"	t
+XML_ENCODE_MAX	.\xmlparse.c	27;"	d	file:
+XML_ENCODE_MAX	.\xmlparse.c	36;"	d	file:
+XML_ENTITY_VALUE_LITERAL	.\xmltok.h	105;"	d
+XML_ERROR_ABORTED	.\expat.h	/^  XML_ERROR_ABORTED,$/;"	e	enum:XML_Error
+XML_ERROR_ASYNC_ENTITY	.\expat.h	/^  XML_ERROR_ASYNC_ENTITY,$/;"	e	enum:XML_Error
+XML_ERROR_ATTRIBUTE_EXTERNAL_ENTITY_REF	.\expat.h	/^  XML_ERROR_ATTRIBUTE_EXTERNAL_ENTITY_REF,$/;"	e	enum:XML_Error
+XML_ERROR_BAD_CHAR_REF	.\expat.h	/^  XML_ERROR_BAD_CHAR_REF,$/;"	e	enum:XML_Error
+XML_ERROR_BINARY_ENTITY_REF	.\expat.h	/^  XML_ERROR_BINARY_ENTITY_REF,$/;"	e	enum:XML_Error
+XML_ERROR_CANT_CHANGE_FEATURE_ONCE_PARSING	.\expat.h	/^  XML_ERROR_CANT_CHANGE_FEATURE_ONCE_PARSING,$/;"	e	enum:XML_Error
+XML_ERROR_DUPLICATE_ATTRIBUTE	.\expat.h	/^  XML_ERROR_DUPLICATE_ATTRIBUTE,$/;"	e	enum:XML_Error
+XML_ERROR_ENTITY_DECLARED_IN_PE	.\expat.h	/^  XML_ERROR_ENTITY_DECLARED_IN_PE,$/;"	e	enum:XML_Error
+XML_ERROR_EXTERNAL_ENTITY_HANDLING	.\expat.h	/^  XML_ERROR_EXTERNAL_ENTITY_HANDLING,$/;"	e	enum:XML_Error
+XML_ERROR_FEATURE_REQUIRES_XML_DTD	.\expat.h	/^  XML_ERROR_FEATURE_REQUIRES_XML_DTD,$/;"	e	enum:XML_Error
+XML_ERROR_FINISHED	.\expat.h	/^  XML_ERROR_FINISHED,$/;"	e	enum:XML_Error
+XML_ERROR_INCOMPLETE_PE	.\expat.h	/^  XML_ERROR_INCOMPLETE_PE,$/;"	e	enum:XML_Error
+XML_ERROR_INCORRECT_ENCODING	.\expat.h	/^  XML_ERROR_INCORRECT_ENCODING,$/;"	e	enum:XML_Error
+XML_ERROR_INVALID_TOKEN	.\expat.h	/^  XML_ERROR_INVALID_TOKEN,$/;"	e	enum:XML_Error
+XML_ERROR_JUNK_AFTER_DOC_ELEMENT	.\expat.h	/^  XML_ERROR_JUNK_AFTER_DOC_ELEMENT,$/;"	e	enum:XML_Error
+XML_ERROR_MISPLACED_XML_PI	.\expat.h	/^  XML_ERROR_MISPLACED_XML_PI,$/;"	e	enum:XML_Error
+XML_ERROR_NONE	.\expat.h	/^  XML_ERROR_NONE,$/;"	e	enum:XML_Error
+XML_ERROR_NOT_STANDALONE	.\expat.h	/^  XML_ERROR_NOT_STANDALONE,$/;"	e	enum:XML_Error
+XML_ERROR_NOT_SUSPENDED	.\expat.h	/^  XML_ERROR_NOT_SUSPENDED,$/;"	e	enum:XML_Error
+XML_ERROR_NO_ELEMENTS	.\expat.h	/^  XML_ERROR_NO_ELEMENTS,$/;"	e	enum:XML_Error
+XML_ERROR_NO_MEMORY	.\expat.h	/^  XML_ERROR_NO_MEMORY,$/;"	e	enum:XML_Error
+XML_ERROR_PARAM_ENTITY_REF	.\expat.h	/^  XML_ERROR_PARAM_ENTITY_REF,$/;"	e	enum:XML_Error
+XML_ERROR_PARTIAL_CHAR	.\expat.h	/^  XML_ERROR_PARTIAL_CHAR,$/;"	e	enum:XML_Error
+XML_ERROR_PUBLICID	.\expat.h	/^  XML_ERROR_PUBLICID,$/;"	e	enum:XML_Error
+XML_ERROR_RECURSIVE_ENTITY_REF	.\expat.h	/^  XML_ERROR_RECURSIVE_ENTITY_REF,$/;"	e	enum:XML_Error
+XML_ERROR_RESERVED_NAMESPACE_URI	.\expat.h	/^  XML_ERROR_RESERVED_NAMESPACE_URI$/;"	e	enum:XML_Error
+XML_ERROR_RESERVED_PREFIX_XML	.\expat.h	/^  XML_ERROR_RESERVED_PREFIX_XML,$/;"	e	enum:XML_Error
+XML_ERROR_RESERVED_PREFIX_XMLNS	.\expat.h	/^  XML_ERROR_RESERVED_PREFIX_XMLNS,$/;"	e	enum:XML_Error
+XML_ERROR_SUSPENDED	.\expat.h	/^  XML_ERROR_SUSPENDED,$/;"	e	enum:XML_Error
+XML_ERROR_SUSPEND_PE	.\expat.h	/^  XML_ERROR_SUSPEND_PE,$/;"	e	enum:XML_Error
+XML_ERROR_SYNTAX	.\expat.h	/^  XML_ERROR_SYNTAX,$/;"	e	enum:XML_Error
+XML_ERROR_TAG_MISMATCH	.\expat.h	/^  XML_ERROR_TAG_MISMATCH,$/;"	e	enum:XML_Error
+XML_ERROR_TEXT_DECL	.\expat.h	/^  XML_ERROR_TEXT_DECL,$/;"	e	enum:XML_Error
+XML_ERROR_UNBOUND_PREFIX	.\expat.h	/^  XML_ERROR_UNBOUND_PREFIX,$/;"	e	enum:XML_Error
+XML_ERROR_UNCLOSED_CDATA_SECTION	.\expat.h	/^  XML_ERROR_UNCLOSED_CDATA_SECTION,$/;"	e	enum:XML_Error
+XML_ERROR_UNCLOSED_TOKEN	.\expat.h	/^  XML_ERROR_UNCLOSED_TOKEN,$/;"	e	enum:XML_Error
+XML_ERROR_UNDECLARING_PREFIX	.\expat.h	/^  XML_ERROR_UNDECLARING_PREFIX,$/;"	e	enum:XML_Error
+XML_ERROR_UNDEFINED_ENTITY	.\expat.h	/^  XML_ERROR_UNDEFINED_ENTITY,$/;"	e	enum:XML_Error
+XML_ERROR_UNEXPECTED_STATE	.\expat.h	/^  XML_ERROR_UNEXPECTED_STATE,$/;"	e	enum:XML_Error
+XML_ERROR_UNKNOWN_ENCODING	.\expat.h	/^  XML_ERROR_UNKNOWN_ENCODING,$/;"	e	enum:XML_Error
+XML_ERROR_XML_DECL	.\expat.h	/^  XML_ERROR_XML_DECL,$/;"	e	enum:XML_Error
+XML_ElementDeclHandler	.\expat.h	/^typedef void (XMLCALL *XML_ElementDeclHandler) (void *userData,$/;"	t
+XML_Encoding	.\expat.h	/^} XML_Encoding;$/;"	t	typeref:struct:__anon2
+XML_EndCdataSectionHandler	.\expat.h	/^typedef void (XMLCALL *XML_EndCdataSectionHandler) (void *userData);$/;"	t
+XML_EndDoctypeDeclHandler	.\expat.h	/^typedef void (XMLCALL *XML_EndDoctypeDeclHandler)(void *userData);$/;"	t
+XML_EndElementHandler	.\expat.h	/^typedef void (XMLCALL *XML_EndElementHandler) (void *userData,$/;"	t
+XML_EndNamespaceDeclHandler	.\expat.h	/^typedef void (XMLCALL *XML_EndNamespaceDeclHandler) ($/;"	t
+XML_EntityDeclHandler	.\expat.h	/^typedef void (XMLCALL *XML_EntityDeclHandler) ($/;"	t
+XML_Error	.\expat.h	/^enum XML_Error {$/;"	g
+XML_ErrorString	.\xmlparse.c	/^XML_ErrorString(enum XML_Error code)$/;"	f
+XML_ExpatVersion	.\xmlparse.c	/^XML_ExpatVersion(void) {$/;"	f
+XML_ExpatVersionInfo	.\xmlparse.c	/^XML_ExpatVersionInfo(void)$/;"	f
+XML_Expat_Version	.\expat.h	/^} XML_Expat_Version;$/;"	t	typeref:struct:__anon4
+XML_ExternalEntityParserCreate	.\xmlparse.c	/^XML_ExternalEntityParserCreate(XML_Parser oldParser,$/;"	f
+XML_ExternalEntityRefHandler	.\expat.h	/^typedef int (XMLCALL *XML_ExternalEntityRefHandler) ($/;"	t
+XML_FALSE	.\expat.h	30;"	d
+XML_FEATURE_CONTEXT_BYTES	.\expat.h	/^  XML_FEATURE_CONTEXT_BYTES,$/;"	e	enum:XML_FeatureEnum
+XML_FEATURE_DTD	.\expat.h	/^  XML_FEATURE_DTD,$/;"	e	enum:XML_FeatureEnum
+XML_FEATURE_END	.\expat.h	/^  XML_FEATURE_END = 0,$/;"	e	enum:XML_FeatureEnum
+XML_FEATURE_LARGE_SIZE	.\expat.h	/^  XML_FEATURE_LARGE_SIZE$/;"	e	enum:XML_FeatureEnum
+XML_FEATURE_MIN_SIZE	.\expat.h	/^  XML_FEATURE_MIN_SIZE,$/;"	e	enum:XML_FeatureEnum
+XML_FEATURE_NS	.\expat.h	/^  XML_FEATURE_NS,$/;"	e	enum:XML_FeatureEnum
+XML_FEATURE_SIZEOF_XML_CHAR	.\expat.h	/^  XML_FEATURE_SIZEOF_XML_CHAR,$/;"	e	enum:XML_FeatureEnum
+XML_FEATURE_SIZEOF_XML_LCHAR	.\expat.h	/^  XML_FEATURE_SIZEOF_XML_LCHAR,$/;"	e	enum:XML_FeatureEnum
+XML_FEATURE_UNICODE	.\expat.h	/^  XML_FEATURE_UNICODE,$/;"	e	enum:XML_FeatureEnum
+XML_FEATURE_UNICODE_WCHAR_T	.\expat.h	/^  XML_FEATURE_UNICODE_WCHAR_T,$/;"	e	enum:XML_FeatureEnum
+XML_FINISHED	.\expat.h	/^  XML_FINISHED,$/;"	e	enum:XML_Parsing
+XML_Feature	.\expat.h	/^} XML_Feature;$/;"	t	typeref:struct:__anon5
+XML_FeatureEnum	.\expat.h	/^enum XML_FeatureEnum {$/;"	g
+XML_FreeContentModel	.\xmlparse.c	/^XML_FreeContentModel(XML_Parser parser, XML_Content *model)$/;"	f
+XML_GetBase	.\xmlparse.c	/^XML_GetBase(XML_Parser parser)$/;"	f
+XML_GetBuffer	.\xmlparse.c	/^XML_GetBuffer(XML_Parser parser, int len)$/;"	f
+XML_GetCurrentByteCount	.\xmlparse.c	/^XML_GetCurrentByteCount(XML_Parser parser)$/;"	f
+XML_GetCurrentByteIndex	.\xmlparse.c	/^XML_GetCurrentByteIndex(XML_Parser parser)$/;"	f
+XML_GetCurrentColumnNumber	.\xmlparse.c	/^XML_GetCurrentColumnNumber(XML_Parser parser)$/;"	f
+XML_GetCurrentLineNumber	.\xmlparse.c	/^XML_GetCurrentLineNumber(XML_Parser parser)$/;"	f
+XML_GetErrorByteIndex	.\expat.h	936;"	d
+XML_GetErrorCode	.\xmlparse.c	/^XML_GetErrorCode(XML_Parser parser)$/;"	f
+XML_GetErrorColumnNumber	.\expat.h	935;"	d
+XML_GetErrorLineNumber	.\expat.h	934;"	d
+XML_GetFeatureList	.\xmlparse.c	/^XML_GetFeatureList(void)$/;"	f
+XML_GetIdAttributeIndex	.\xmlparse.c	/^XML_GetIdAttributeIndex(XML_Parser parser)$/;"	f
+XML_GetInputContext	.\xmlparse.c	/^XML_GetInputContext(XML_Parser parser, int *offset, int *size)$/;"	f
+XML_GetParsingStatus	.\xmlparse.c	/^XML_GetParsingStatus(XML_Parser parser, XML_ParsingStatus *status)$/;"	f
+XML_GetSpecifiedAttributeCount	.\xmlparse.c	/^XML_GetSpecifiedAttributeCount(XML_Parser parser)$/;"	f
+XML_GetUserData	.\expat.h	674;"	d
+XML_IGNORE_SECTION_STATE	.\xmltok.h	100;"	d
+XML_INITIALIZED	.\expat.h	/^  XML_INITIALIZED,$/;"	e	enum:XML_Parsing
+XML_Index	.\expat_external.h	/^typedef __int64 XML_Index; $/;"	t
+XML_Index	.\expat_external.h	/^typedef long XML_Index;$/;"	t
+XML_Index	.\expat_external.h	/^typedef long long XML_Index;$/;"	t
+XML_L	.\xmlparse.c	60;"	d	file:
+XML_L	.\xmlparse.c	63;"	d	file:
+XML_L	.\xmlparse.c	69;"	d	file:
+XML_LChar	.\expat_external.h	/^typedef char XML_LChar;$/;"	t
+XML_LChar	.\expat_external.h	/^typedef wchar_t XML_LChar;$/;"	t
+XML_MAJOR_VERSION	.\expat.h	1006;"	d
+XML_MICRO_VERSION	.\expat.h	1008;"	d
+XML_MINOR_VERSION	.\expat.h	1007;"	d
+XML_MemFree	.\xmlparse.c	/^XML_MemFree(XML_Parser parser, void *ptr)$/;"	f
+XML_MemMalloc	.\xmlparse.c	/^XML_MemMalloc(XML_Parser parser, size_t size)$/;"	f
+XML_MemRealloc	.\xmlparse.c	/^XML_MemRealloc(XML_Parser parser, void *ptr, size_t size)$/;"	f
+XML_Memory_Handling_Suite	.\expat.h	/^} XML_Memory_Handling_Suite;$/;"	t	typeref:struct:__anon1
+XML_NS	.\amigaconfig.h	30;"	d
+XML_NS	.\macconfig.h	41;"	d
+XML_NS	.\winconfig.h	20;"	d
+XML_N_LITERAL_TYPES	.\xmltok.h	103;"	d
+XML_N_STATES	.\xmltok.h	91;"	d
+XML_N_STATES	.\xmltok.h	93;"	d
+XML_NotStandaloneHandler	.\expat.h	/^typedef int (XMLCALL *XML_NotStandaloneHandler) (void *userData);$/;"	t
+XML_NotationDeclHandler	.\expat.h	/^typedef void (XMLCALL *XML_NotationDeclHandler) ($/;"	t
+XML_PARAM_ENTITY_PARSING_ALWAYS	.\expat.h	/^  XML_PARAM_ENTITY_PARSING_ALWAYS$/;"	e	enum:XML_ParamEntityParsing
+XML_PARAM_ENTITY_PARSING_NEVER	.\expat.h	/^  XML_PARAM_ENTITY_PARSING_NEVER,$/;"	e	enum:XML_ParamEntityParsing
+XML_PARAM_ENTITY_PARSING_UNLESS_STANDALONE	.\expat.h	/^  XML_PARAM_ENTITY_PARSING_UNLESS_STANDALONE,$/;"	e	enum:XML_ParamEntityParsing
+XML_PARSING	.\expat.h	/^  XML_PARSING,$/;"	e	enum:XML_Parsing
+XML_PROLOG_STATE	.\xmltok.h	96;"	d
+XML_ParamEntityParsing	.\expat.h	/^enum XML_ParamEntityParsing {$/;"	g
+XML_Parse	.\xmlparse.c	/^XML_Parse(XML_Parser parser, const char *s, int len, int isFinal)$/;"	f
+XML_ParseBuffer	.\xmlparse.c	/^XML_ParseBuffer(XML_Parser parser, int len, int isFinal)$/;"	f
+XML_Parser	.\expat.h	/^typedef struct XML_ParserStruct *XML_Parser;$/;"	t	typeref:struct:XML_ParserStruct
+XML_ParserCreate	.\xmlparse.c	/^XML_ParserCreate(const XML_Char *encodingName)$/;"	f
+XML_ParserCreateNS	.\xmlparse.c	/^XML_ParserCreateNS(const XML_Char *encodingName, XML_Char nsSep)$/;"	f
+XML_ParserCreate_MM	.\xmlparse.c	/^XML_ParserCreate_MM(const XML_Char *encodingName,$/;"	f
+XML_ParserFree	.\xmlparse.c	/^XML_ParserFree(XML_Parser parser)$/;"	f
+XML_ParserReset	.\xmlparse.c	/^XML_ParserReset(XML_Parser parser, const XML_Char *encodingName)$/;"	f
+XML_ParserStruct	.\xmlparse.c	/^struct XML_ParserStruct {$/;"	s	file:
+XML_Parsing	.\expat.h	/^enum XML_Parsing {$/;"	g
+XML_ParsingStatus	.\expat.h	/^} XML_ParsingStatus;$/;"	t	typeref:struct:__anon3
+XML_ProcessingInstructionHandler	.\expat.h	/^typedef void (XMLCALL *XML_ProcessingInstructionHandler) ($/;"	t
+XML_ROLE_ATTLIST_ELEMENT_NAME	.\xmlrole.h	/^  XML_ROLE_ATTLIST_ELEMENT_NAME,$/;"	e	enum:__anon17
+XML_ROLE_ATTLIST_NONE	.\xmlrole.h	/^  XML_ROLE_ATTLIST_NONE,$/;"	e	enum:__anon17
+XML_ROLE_ATTRIBUTE_ENUM_VALUE	.\xmlrole.h	/^  XML_ROLE_ATTRIBUTE_ENUM_VALUE,$/;"	e	enum:__anon17
+XML_ROLE_ATTRIBUTE_NAME	.\xmlrole.h	/^  XML_ROLE_ATTRIBUTE_NAME,$/;"	e	enum:__anon17
+XML_ROLE_ATTRIBUTE_NOTATION_VALUE	.\xmlrole.h	/^  XML_ROLE_ATTRIBUTE_NOTATION_VALUE,$/;"	e	enum:__anon17
+XML_ROLE_ATTRIBUTE_TYPE_CDATA	.\xmlrole.h	/^  XML_ROLE_ATTRIBUTE_TYPE_CDATA,$/;"	e	enum:__anon17
+XML_ROLE_ATTRIBUTE_TYPE_ENTITIES	.\xmlrole.h	/^  XML_ROLE_ATTRIBUTE_TYPE_ENTITIES,$/;"	e	enum:__anon17
+XML_ROLE_ATTRIBUTE_TYPE_ENTITY	.\xmlrole.h	/^  XML_ROLE_ATTRIBUTE_TYPE_ENTITY,$/;"	e	enum:__anon17
+XML_ROLE_ATTRIBUTE_TYPE_ID	.\xmlrole.h	/^  XML_ROLE_ATTRIBUTE_TYPE_ID,$/;"	e	enum:__anon17
+XML_ROLE_ATTRIBUTE_TYPE_IDREF	.\xmlrole.h	/^  XML_ROLE_ATTRIBUTE_TYPE_IDREF,$/;"	e	enum:__anon17
+XML_ROLE_ATTRIBUTE_TYPE_IDREFS	.\xmlrole.h	/^  XML_ROLE_ATTRIBUTE_TYPE_IDREFS,$/;"	e	enum:__anon17
+XML_ROLE_ATTRIBUTE_TYPE_NMTOKEN	.\xmlrole.h	/^  XML_ROLE_ATTRIBUTE_TYPE_NMTOKEN,$/;"	e	enum:__anon17
+XML_ROLE_ATTRIBUTE_TYPE_NMTOKENS	.\xmlrole.h	/^  XML_ROLE_ATTRIBUTE_TYPE_NMTOKENS,$/;"	e	enum:__anon17
+XML_ROLE_COMMENT	.\xmlrole.h	/^  XML_ROLE_COMMENT,$/;"	e	enum:__anon17
+XML_ROLE_CONTENT_ANY	.\xmlrole.h	/^  XML_ROLE_CONTENT_ANY,$/;"	e	enum:__anon17
+XML_ROLE_CONTENT_ELEMENT	.\xmlrole.h	/^  XML_ROLE_CONTENT_ELEMENT,$/;"	e	enum:__anon17
+XML_ROLE_CONTENT_ELEMENT_OPT	.\xmlrole.h	/^  XML_ROLE_CONTENT_ELEMENT_OPT,$/;"	e	enum:__anon17
+XML_ROLE_CONTENT_ELEMENT_PLUS	.\xmlrole.h	/^  XML_ROLE_CONTENT_ELEMENT_PLUS,$/;"	e	enum:__anon17
+XML_ROLE_CONTENT_ELEMENT_REP	.\xmlrole.h	/^  XML_ROLE_CONTENT_ELEMENT_REP,$/;"	e	enum:__anon17
+XML_ROLE_CONTENT_EMPTY	.\xmlrole.h	/^  XML_ROLE_CONTENT_EMPTY,$/;"	e	enum:__anon17
+XML_ROLE_CONTENT_PCDATA	.\xmlrole.h	/^  XML_ROLE_CONTENT_PCDATA,$/;"	e	enum:__anon17
+XML_ROLE_DEFAULT_ATTRIBUTE_VALUE	.\xmlrole.h	/^  XML_ROLE_DEFAULT_ATTRIBUTE_VALUE,$/;"	e	enum:__anon17
+XML_ROLE_DOCTYPE_CLOSE	.\xmlrole.h	/^  XML_ROLE_DOCTYPE_CLOSE,$/;"	e	enum:__anon17
+XML_ROLE_DOCTYPE_INTERNAL_SUBSET	.\xmlrole.h	/^  XML_ROLE_DOCTYPE_INTERNAL_SUBSET,$/;"	e	enum:__anon17
+XML_ROLE_DOCTYPE_NAME	.\xmlrole.h	/^  XML_ROLE_DOCTYPE_NAME,$/;"	e	enum:__anon17
+XML_ROLE_DOCTYPE_NONE	.\xmlrole.h	/^  XML_ROLE_DOCTYPE_NONE,$/;"	e	enum:__anon17
+XML_ROLE_DOCTYPE_PUBLIC_ID	.\xmlrole.h	/^  XML_ROLE_DOCTYPE_PUBLIC_ID,$/;"	e	enum:__anon17
+XML_ROLE_DOCTYPE_SYSTEM_ID	.\xmlrole.h	/^  XML_ROLE_DOCTYPE_SYSTEM_ID,$/;"	e	enum:__anon17
+XML_ROLE_ELEMENT_NAME	.\xmlrole.h	/^  XML_ROLE_ELEMENT_NAME,$/;"	e	enum:__anon17
+XML_ROLE_ELEMENT_NONE	.\xmlrole.h	/^  XML_ROLE_ELEMENT_NONE,$/;"	e	enum:__anon17
+XML_ROLE_ENTITY_COMPLETE	.\xmlrole.h	/^  XML_ROLE_ENTITY_COMPLETE,$/;"	e	enum:__anon17
+XML_ROLE_ENTITY_NONE	.\xmlrole.h	/^  XML_ROLE_ENTITY_NONE,$/;"	e	enum:__anon17
+XML_ROLE_ENTITY_NOTATION_NAME	.\xmlrole.h	/^  XML_ROLE_ENTITY_NOTATION_NAME,$/;"	e	enum:__anon17
+XML_ROLE_ENTITY_PUBLIC_ID	.\xmlrole.h	/^  XML_ROLE_ENTITY_PUBLIC_ID,$/;"	e	enum:__anon17
+XML_ROLE_ENTITY_SYSTEM_ID	.\xmlrole.h	/^  XML_ROLE_ENTITY_SYSTEM_ID,$/;"	e	enum:__anon17
+XML_ROLE_ENTITY_VALUE	.\xmlrole.h	/^  XML_ROLE_ENTITY_VALUE,$/;"	e	enum:__anon17
+XML_ROLE_ERROR	.\xmlrole.h	/^  XML_ROLE_ERROR = -1,$/;"	e	enum:__anon17
+XML_ROLE_FIXED_ATTRIBUTE_VALUE	.\xmlrole.h	/^  XML_ROLE_FIXED_ATTRIBUTE_VALUE,$/;"	e	enum:__anon17
+XML_ROLE_GENERAL_ENTITY_NAME	.\xmlrole.h	/^  XML_ROLE_GENERAL_ENTITY_NAME,$/;"	e	enum:__anon17
+XML_ROLE_GROUP_CHOICE	.\xmlrole.h	/^  XML_ROLE_GROUP_CHOICE,$/;"	e	enum:__anon17
+XML_ROLE_GROUP_CLOSE	.\xmlrole.h	/^  XML_ROLE_GROUP_CLOSE,$/;"	e	enum:__anon17
+XML_ROLE_GROUP_CLOSE_OPT	.\xmlrole.h	/^  XML_ROLE_GROUP_CLOSE_OPT,$/;"	e	enum:__anon17
+XML_ROLE_GROUP_CLOSE_PLUS	.\xmlrole.h	/^  XML_ROLE_GROUP_CLOSE_PLUS,$/;"	e	enum:__anon17
+XML_ROLE_GROUP_CLOSE_REP	.\xmlrole.h	/^  XML_ROLE_GROUP_CLOSE_REP,$/;"	e	enum:__anon17
+XML_ROLE_GROUP_OPEN	.\xmlrole.h	/^  XML_ROLE_GROUP_OPEN,$/;"	e	enum:__anon17
+XML_ROLE_GROUP_SEQUENCE	.\xmlrole.h	/^  XML_ROLE_GROUP_SEQUENCE,$/;"	e	enum:__anon17
+XML_ROLE_IGNORE_SECT	.\xmlrole.h	/^  XML_ROLE_IGNORE_SECT,$/;"	e	enum:__anon17
+XML_ROLE_IMPLIED_ATTRIBUTE_VALUE	.\xmlrole.h	/^  XML_ROLE_IMPLIED_ATTRIBUTE_VALUE,$/;"	e	enum:__anon17
+XML_ROLE_INNER_PARAM_ENTITY_REF	.\xmlrole.h	/^  XML_ROLE_INNER_PARAM_ENTITY_REF,$/;"	e	enum:__anon17
+XML_ROLE_INSTANCE_START	.\xmlrole.h	/^  XML_ROLE_INSTANCE_START,$/;"	e	enum:__anon17
+XML_ROLE_NONE	.\xmlrole.h	/^  XML_ROLE_NONE = 0,$/;"	e	enum:__anon17
+XML_ROLE_NOTATION_NAME	.\xmlrole.h	/^  XML_ROLE_NOTATION_NAME,$/;"	e	enum:__anon17
+XML_ROLE_NOTATION_NONE	.\xmlrole.h	/^  XML_ROLE_NOTATION_NONE,$/;"	e	enum:__anon17
+XML_ROLE_NOTATION_NO_SYSTEM_ID	.\xmlrole.h	/^  XML_ROLE_NOTATION_NO_SYSTEM_ID,$/;"	e	enum:__anon17
+XML_ROLE_NOTATION_PUBLIC_ID	.\xmlrole.h	/^  XML_ROLE_NOTATION_PUBLIC_ID,$/;"	e	enum:__anon17
+XML_ROLE_NOTATION_SYSTEM_ID	.\xmlrole.h	/^  XML_ROLE_NOTATION_SYSTEM_ID,$/;"	e	enum:__anon17
+XML_ROLE_PARAM_ENTITY_NAME	.\xmlrole.h	/^  XML_ROLE_PARAM_ENTITY_NAME,$/;"	e	enum:__anon17
+XML_ROLE_PARAM_ENTITY_REF	.\xmlrole.h	/^  XML_ROLE_PARAM_ENTITY_REF$/;"	e	enum:__anon17
+XML_ROLE_PI	.\xmlrole.h	/^  XML_ROLE_PI,$/;"	e	enum:__anon17
+XML_ROLE_REQUIRED_ATTRIBUTE_VALUE	.\xmlrole.h	/^  XML_ROLE_REQUIRED_ATTRIBUTE_VALUE,$/;"	e	enum:__anon17
+XML_ROLE_TEXT_DECL	.\xmlrole.h	/^  XML_ROLE_TEXT_DECL,$/;"	e	enum:__anon17
+XML_ROLE_XML_DECL	.\xmlrole.h	/^  XML_ROLE_XML_DECL,$/;"	e	enum:__anon17
+XML_ResumeParser	.\xmlparse.c	/^XML_ResumeParser(XML_Parser parser)$/;"	f
+XML_STATUS_ERROR	.\expat.h	/^  XML_STATUS_ERROR = 0,$/;"	e	enum:XML_Status
+XML_STATUS_ERROR	.\expat.h	47;"	d
+XML_STATUS_OK	.\expat.h	/^  XML_STATUS_OK = 1,$/;"	e	enum:XML_Status
+XML_STATUS_OK	.\expat.h	49;"	d
+XML_STATUS_SUSPENDED	.\expat.h	/^  XML_STATUS_SUSPENDED = 2$/;"	e	enum:XML_Status
+XML_STATUS_SUSPENDED	.\expat.h	51;"	d
+XML_SUSPENDED	.\expat.h	/^  XML_SUSPENDED$/;"	e	enum:XML_Parsing
+XML_SetAttlistDeclHandler	.\xmlparse.c	/^XML_SetAttlistDeclHandler(XML_Parser parser,$/;"	f
+XML_SetBase	.\xmlparse.c	/^XML_SetBase(XML_Parser parser, const XML_Char *p)$/;"	f
+XML_SetCdataSectionHandler	.\xmlparse.c	/^XML_SetCdataSectionHandler(XML_Parser parser,$/;"	f
+XML_SetCharacterDataHandler	.\xmlparse.c	/^XML_SetCharacterDataHandler(XML_Parser parser,$/;"	f
+XML_SetCommentHandler	.\xmlparse.c	/^XML_SetCommentHandler(XML_Parser parser,$/;"	f
+XML_SetDefaultHandler	.\xmlparse.c	/^XML_SetDefaultHandler(XML_Parser parser,$/;"	f
+XML_SetDefaultHandlerExpand	.\xmlparse.c	/^XML_SetDefaultHandlerExpand(XML_Parser parser,$/;"	f
+XML_SetDoctypeDeclHandler	.\xmlparse.c	/^XML_SetDoctypeDeclHandler(XML_Parser parser,$/;"	f
+XML_SetElementDeclHandler	.\xmlparse.c	/^XML_SetElementDeclHandler(XML_Parser parser,$/;"	f
+XML_SetElementHandler	.\xmlparse.c	/^XML_SetElementHandler(XML_Parser parser,$/;"	f
+XML_SetEncoding	.\xmlparse.c	/^XML_SetEncoding(XML_Parser parser, const XML_Char *encodingName)$/;"	f
+XML_SetEndCdataSectionHandler	.\xmlparse.c	/^XML_SetEndCdataSectionHandler(XML_Parser parser,$/;"	f
+XML_SetEndDoctypeDeclHandler	.\xmlparse.c	/^XML_SetEndDoctypeDeclHandler(XML_Parser parser,$/;"	f
+XML_SetEndElementHandler	.\xmlparse.c	/^XML_SetEndElementHandler(XML_Parser parser,$/;"	f
+XML_SetEndNamespaceDeclHandler	.\xmlparse.c	/^XML_SetEndNamespaceDeclHandler(XML_Parser parser,$/;"	f
+XML_SetEntityDeclHandler	.\xmlparse.c	/^XML_SetEntityDeclHandler(XML_Parser parser,$/;"	f
+XML_SetExternalEntityRefHandler	.\xmlparse.c	/^XML_SetExternalEntityRefHandler(XML_Parser parser,$/;"	f
+XML_SetExternalEntityRefHandlerArg	.\expat.h	14;"	d
+XML_SetExternalEntityRefHandlerArg	.\xmlparse.c	/^XML_SetExternalEntityRefHandlerArg(XML_Parser parser, void *arg)$/;"	f
+XML_SetNamespaceDeclHandler	.\xmlparse.c	/^XML_SetNamespaceDeclHandler(XML_Parser parser,$/;"	f
+XML_SetNotStandaloneHandler	.\xmlparse.c	/^XML_SetNotStandaloneHandler(XML_Parser parser,$/;"	f
+XML_SetNotationDeclHandler	.\xmlparse.c	/^XML_SetNotationDeclHandler(XML_Parser parser,$/;"	f
+XML_SetParamEntityParsing	.\xmlparse.c	/^XML_SetParamEntityParsing(XML_Parser parser,$/;"	f
+XML_SetProcessingInstructionHandler	.\expat.h	11;"	d
+XML_SetProcessingInstructionHandler	.\xmlparse.c	/^XML_SetProcessingInstructionHandler(XML_Parser parser,$/;"	f
+XML_SetReturnNSTriplet	.\xmlparse.c	/^XML_SetReturnNSTriplet(XML_Parser parser, int do_nst)$/;"	f
+XML_SetSkippedEntityHandler	.\xmlparse.c	/^XML_SetSkippedEntityHandler(XML_Parser parser,$/;"	f
+XML_SetStartCdataSectionHandler	.\xmlparse.c	/^XML_SetStartCdataSectionHandler(XML_Parser parser,$/;"	f
+XML_SetStartDoctypeDeclHandler	.\xmlparse.c	/^XML_SetStartDoctypeDeclHandler(XML_Parser parser,$/;"	f
+XML_SetStartElementHandler	.\xmlparse.c	/^XML_SetStartElementHandler(XML_Parser parser,$/;"	f
+XML_SetStartNamespaceDeclHandler	.\expat.h	13;"	d
+XML_SetStartNamespaceDeclHandler	.\xmlparse.c	/^XML_SetStartNamespaceDeclHandler(XML_Parser parser,$/;"	f
+XML_SetUnknownEncodingHandler	.\xmlparse.c	/^XML_SetUnknownEncodingHandler(XML_Parser parser,$/;"	f
+XML_SetUnparsedEntityDeclHandler	.\expat.h	12;"	d
+XML_SetUnparsedEntityDeclHandler	.\xmlparse.c	/^XML_SetUnparsedEntityDeclHandler(XML_Parser parser,$/;"	f
+XML_SetUserData	.\xmlparse.c	/^XML_SetUserData(XML_Parser parser, void *p)$/;"	f
+XML_SetXmlDeclHandler	.\xmlparse.c	/^XML_SetXmlDeclHandler(XML_Parser parser,$/;"	f
+XML_Size	.\expat_external.h	/^typedef unsigned __int64 XML_Size;$/;"	t
+XML_Size	.\expat_external.h	/^typedef unsigned long XML_Size;$/;"	t
+XML_Size	.\expat_external.h	/^typedef unsigned long long XML_Size;$/;"	t
+XML_SkippedEntityHandler	.\expat.h	/^typedef void (XMLCALL *XML_SkippedEntityHandler) ($/;"	t
+XML_StartCdataSectionHandler	.\expat.h	/^typedef void (XMLCALL *XML_StartCdataSectionHandler) (void *userData);$/;"	t
+XML_StartDoctypeDeclHandler	.\expat.h	/^typedef void (XMLCALL *XML_StartDoctypeDeclHandler) ($/;"	t
+XML_StartElementHandler	.\expat.h	/^typedef void (XMLCALL *XML_StartElementHandler) (void *userData,$/;"	t
+XML_StartNamespaceDeclHandler	.\expat.h	/^typedef void (XMLCALL *XML_StartNamespaceDeclHandler) ($/;"	t
+XML_Status	.\expat.h	/^enum XML_Status {$/;"	g
+XML_StopParser	.\xmlparse.c	/^XML_StopParser(XML_Parser parser, XML_Bool resumable)$/;"	f
+XML_T	.\xmlparse.c	59;"	d	file:
+XML_T	.\xmlparse.c	62;"	d	file:
+XML_T	.\xmlparse.c	68;"	d	file:
+XML_TOK_ATTRIBUTE_VALUE_S	.\xmltok.h	76;"	d
+XML_TOK_BOM	.\xmltok.h	45;"	d
+XML_TOK_CDATA_SECT_CLOSE	.\xmltok.h	79;"	d
+XML_TOK_CDATA_SECT_OPEN	.\xmltok.h	35;"	d
+XML_TOK_CHAR_REF	.\xmltok.h	37;"	d
+XML_TOK_CLOSE_BRACKET	.\xmltok.h	59;"	d
+XML_TOK_CLOSE_PAREN	.\xmltok.h	57;"	d
+XML_TOK_CLOSE_PAREN_ASTERISK	.\xmltok.h	71;"	d
+XML_TOK_CLOSE_PAREN_PLUS	.\xmltok.h	72;"	d
+XML_TOK_CLOSE_PAREN_QUESTION	.\xmltok.h	70;"	d
+XML_TOK_COMMA	.\xmltok.h	73;"	d
+XML_TOK_COMMENT	.\xmltok.h	44;"	d
+XML_TOK_COND_SECT_CLOSE	.\xmltok.h	69;"	d
+XML_TOK_COND_SECT_OPEN	.\xmltok.h	68;"	d
+XML_TOK_DATA_CHARS	.\xmltok.h	33;"	d
+XML_TOK_DATA_NEWLINE	.\xmltok.h	34;"	d
+XML_TOK_DECL_CLOSE	.\xmltok.h	50;"	d
+XML_TOK_DECL_OPEN	.\xmltok.h	49;"	d
+XML_TOK_EMPTY_ELEMENT_NO_ATTS	.\xmltok.h	31;"	d
+XML_TOK_EMPTY_ELEMENT_WITH_ATTS	.\xmltok.h	30;"	d
+XML_TOK_END_TAG	.\xmltok.h	32;"	d
+XML_TOK_ENTITY_REF	.\xmltok.h	36;"	d
+XML_TOK_IGNORE_SECT	.\xmltok.h	87;"	d
+XML_TOK_IMPL_C	.\xmltok.c	300;"	d	file:
+XML_TOK_IMPL_C	.\xmltok.c	302;"	d	file:
+XML_TOK_IMPL_C	.\xmltok.c	840;"	d	file:
+XML_TOK_IMPL_C	.\xmltok.c	842;"	d	file:
+XML_TOK_INSTANCE_START	.\xmltok.h	62;"	d
+XML_TOK_INVALID	.\xmltok.h	23;"	d
+XML_TOK_LITERAL	.\xmltok.h	60;"	d
+XML_TOK_NAME	.\xmltok.h	51;"	d
+XML_TOK_NAME_ASTERISK	.\xmltok.h	66;"	d
+XML_TOK_NAME_PLUS	.\xmltok.h	67;"	d
+XML_TOK_NAME_QUESTION	.\xmltok.h	65;"	d
+XML_TOK_NMTOKEN	.\xmltok.h	52;"	d
+XML_TOK_NONE	.\xmltok.h	18;"	d
+XML_TOK_NS_C	.\xmltok.c	1621;"	d	file:
+XML_TOK_NS_C	.\xmltok.c	1623;"	d	file:
+XML_TOK_NS_C	.\xmltok.c	1632;"	d	file:
+XML_TOK_NS_C	.\xmltok.c	1634;"	d	file:
+XML_TOK_OPEN_BRACKET	.\xmltok.h	58;"	d
+XML_TOK_OPEN_PAREN	.\xmltok.h	56;"	d
+XML_TOK_OR	.\xmltok.h	54;"	d
+XML_TOK_PARAM_ENTITY_REF	.\xmltok.h	61;"	d
+XML_TOK_PARTIAL	.\xmltok.h	22;"	d
+XML_TOK_PARTIAL_CHAR	.\xmltok.h	21;"	d
+XML_TOK_PERCENT	.\xmltok.h	55;"	d
+XML_TOK_PI	.\xmltok.h	42;"	d
+XML_TOK_POUND_NAME	.\xmltok.h	53;"	d
+XML_TOK_PREFIXED_NAME	.\xmltok.h	84;"	d
+XML_TOK_PROLOG_S	.\xmltok.h	48;"	d
+XML_TOK_START_TAG_NO_ATTS	.\xmltok.h	29;"	d
+XML_TOK_START_TAG_WITH_ATTS	.\xmltok.h	28;"	d
+XML_TOK_TRAILING_CR	.\xmltok.h	19;"	d
+XML_TOK_TRAILING_RSQB	.\xmltok.h	13;"	d
+XML_TOK_XML_DECL	.\xmltok.h	43;"	d
+XML_TRUE	.\expat.h	29;"	d
+XML_UNICODE	.\expat_external.h	82;"	d
+XML_USE_MSC_EXTENSIONS	.\expat_external.h	11;"	d
+XML_UTF16_ENCODE_MAX	.\xmltok.h	110;"	d
+XML_UTF8_ENCODE_MAX	.\xmltok.h	108;"	d
+XML_UnknownEncodingHandler	.\expat.h	/^typedef int (XMLCALL *XML_UnknownEncodingHandler) ($/;"	t
+XML_UnparsedEntityDeclHandler	.\expat.h	/^typedef void (XMLCALL *XML_UnparsedEntityDeclHandler) ($/;"	t
+XML_UseForeignDTD	.\xmlparse.c	/^XML_UseForeignDTD(XML_Parser parser, XML_Bool useDTD)$/;"	f
+XML_UseParserAsHandlerArg	.\xmlparse.c	/^XML_UseParserAsHandlerArg(XML_Parser parser)$/;"	f
+XML_XmlDeclHandler	.\expat.h	/^typedef void (XMLCALL *XML_XmlDeclHandler) (void           *userData,$/;"	t
+XML_cp	.\expat.h	/^struct XML_cp {$/;"	s
+XmlAttributeValueTok	.\xmltok.h	223;"	d
+XmlCdataSectionTok	.\xmltok.h	207;"	d
+XmlCharRefNumber	.\xmltok.h	243;"	d
+XmlContentTok	.\xmltok.h	204;"	d
+XmlConvert	.\xmlparse.c	28;"	d	file:
+XmlConvert	.\xmlparse.c	37;"	d	file:
+XmlEncode	.\xmlparse.c	31;"	d	file:
+XmlEncode	.\xmlparse.c	40;"	d	file:
+XmlEntityValueTok	.\xmltok.h	226;"	d
+XmlGetAttributes	.\xmltok.h	240;"	d
+XmlGetInternalEncoding	.\xmlparse.c	29;"	d	file:
+XmlGetInternalEncoding	.\xmlparse.c	38;"	d	file:
+XmlGetInternalEncodingNS	.\xmlparse.c	30;"	d	file:
+XmlGetInternalEncodingNS	.\xmlparse.c	39;"	d	file:
+XmlGetInternalEncodingNS	.\xmlparse.c	50;"	d	file:
+XmlGetInternalEncodingNS	.\xmlparse.c	51;"	d	file:
+XmlGetUtf16InternalEncoding	.\xmltok_ns.c	/^NS(XmlGetUtf16InternalEncoding)(void)$/;"	f
+XmlGetUtf8InternalEncoding	.\xmltok_ns.c	/^NS(XmlGetUtf8InternalEncoding)(void)$/;"	f
+XmlIgnoreSectionTok	.\xmltok.h	212;"	d
+XmlInitEncoding	.\xmltok_ns.c	/^NS(XmlInitEncoding)(INIT_ENCODING *p, const ENCODING **encPtr,$/;"	f
+XmlInitEncodingNS	.\xmlparse.c	48;"	d	file:
+XmlInitUnknownEncoding	.\xmltok.c	/^XmlInitUnknownEncoding(void *mem,$/;"	f
+XmlInitUnknownEncodingNS	.\xmlparse.c	49;"	d	file:
+XmlInitUnknownEncodingNS	.\xmltok.c	/^XmlInitUnknownEncodingNS(void *mem,$/;"	f
+XmlIsPublicId	.\xmltok.h	252;"	d
+XmlLiteralTok	.\xmltok.h	220;"	d
+XmlNameLength	.\xmltok.h	234;"	d
+XmlNameMatchesAscii	.\xmltok.h	231;"	d
+XmlParseXmlDecl	.\xmltok_ns.c	/^NS(XmlParseXmlDecl)(int isGeneralTextEntity,$/;"	f
+XmlParseXmlDeclNS	.\xmlparse.c	52;"	d	file:
+XmlPredefinedEntityName	.\xmltok.h	246;"	d
+XmlPrologStateInit	.\xmlrole.c	/^XmlPrologStateInit(PROLOG_STATE *state)$/;"	f
+XmlPrologStateInitExternalEntity	.\xmlrole.c	/^XmlPrologStateInitExternalEntity(PROLOG_STATE *state)$/;"	f
+XmlPrologStateInitExternalEntity	.\xmlrole.h	11;"	d
+XmlPrologTok	.\xmltok.h	201;"	d
+XmlRole_INCLUDED	.\xmlrole.h	6;"	d
+XmlSameName	.\xmltok.h	229;"	d
+XmlSizeOfUnknownEncoding	.\xmltok.c	/^XmlSizeOfUnknownEncoding(void)$/;"	f
+XmlSkipS	.\xmltok.h	237;"	d
+XmlTok	.\xmltok.h	198;"	d
+XmlTok_INCLUDED	.\xmltok.h	6;"	d
+XmlTokenRole	.\xmlrole.h	107;"	d
+XmlUpdatePosition	.\xmltok.h	249;"	d
+XmlUtf16Convert	.\xmltok.h	258;"	d
+XmlUtf16Encode	.\xmltok.c	/^XmlUtf16Encode(int charNum, unsigned short *buf)$/;"	f
+XmlUtf8Convert	.\xmltok.h	255;"	d
+XmlUtf8Encode	.\xmltok.c	/^XmlUtf8Encode(int c, char *buf)$/;"	f
+_dtd	.\xmlparse.c	619;"	d	file:
+addBinding	.\xmlparse.c	/^addBinding(XML_Parser parser, PREFIX *prefix, const ATTRIBUTE_ID *attId,$/;"	f	file:
+allocDefaultAtts	.\xmlparse.c	/^  int allocDefaultAtts;$/;"	m	struct:__anon15	file:
+appendAttributeValue	.\xmlparse.c	/^appendAttributeValue(XML_Parser parser, const ENCODING *enc, XML_Bool isCdata,$/;"	f	file:
+ascii_encoding	.\xmltok.c	/^static const struct normal_encoding ascii_encoding = {$/;"	v	typeref:struct:normal_encoding	file:
+ascii_encoding_ns	.\xmltok.c	/^static const struct normal_encoding ascii_encoding_ns = {$/;"	v	typeref:struct:normal_encoding	file:
+ascii_toUtf8	.\xmltok.c	/^ascii_toUtf8(const ENCODING *enc,$/;"	f	file:
+attId	.\xmlparse.c	/^  const struct attribute_id *attId;$/;"	m	struct:binding	typeref:struct:binding::attribute_id	file:
+attlist0	.\xmlrole.c	/^  attlist0, attlist1, attlist2, attlist3, attlist4, attlist5, attlist6,$/;"	v	file:
+attlist0	.\xmlrole.c	/^attlist0(PROLOG_STATE *state,$/;"	f	file:
+attlist1	.\xmlrole.c	/^  attlist0, attlist1, attlist2, attlist3, attlist4, attlist5, attlist6,$/;"	v	file:
+attlist1	.\xmlrole.c	/^attlist1(PROLOG_STATE *state,$/;"	f	file:
+attlist2	.\xmlrole.c	/^  attlist0, attlist1, attlist2, attlist3, attlist4, attlist5, attlist6,$/;"	v	file:
+attlist2	.\xmlrole.c	/^attlist2(PROLOG_STATE *state,$/;"	f	file:
+attlist3	.\xmlrole.c	/^  attlist0, attlist1, attlist2, attlist3, attlist4, attlist5, attlist6,$/;"	v	file:
+attlist3	.\xmlrole.c	/^attlist3(PROLOG_STATE *state,$/;"	f	file:
+attlist4	.\xmlrole.c	/^  attlist0, attlist1, attlist2, attlist3, attlist4, attlist5, attlist6,$/;"	v	file:
+attlist4	.\xmlrole.c	/^attlist4(PROLOG_STATE *state,$/;"	f	file:
+attlist5	.\xmlrole.c	/^  attlist0, attlist1, attlist2, attlist3, attlist4, attlist5, attlist6,$/;"	v	file:
+attlist5	.\xmlrole.c	/^attlist5(PROLOG_STATE *state,$/;"	f	file:
+attlist6	.\xmlrole.c	/^  attlist0, attlist1, attlist2, attlist3, attlist4, attlist5, attlist6,$/;"	v	file:
+attlist6	.\xmlrole.c	/^attlist6(PROLOG_STATE *state,$/;"	f	file:
+attlist7	.\xmlrole.c	/^  attlist7, attlist8, attlist9,$/;"	v	file:
+attlist7	.\xmlrole.c	/^attlist7(PROLOG_STATE *state,$/;"	f	file:
+attlist8	.\xmlrole.c	/^  attlist7, attlist8, attlist9,$/;"	v	file:
+attlist8	.\xmlrole.c	/^attlist8(PROLOG_STATE *state,$/;"	f	file:
+attlist9	.\xmlrole.c	/^  attlist7, attlist8, attlist9,$/;"	v	file:
+attlist9	.\xmlrole.c	/^attlist9(PROLOG_STATE *state,$/;"	f	file:
+attlistDeclHandler	.\xmlparse.c	585;"	d	file:
+attributeIds	.\xmlparse.c	/^  HASH_TABLE attributeIds;$/;"	m	struct:__anon16	file:
+attributeValueTok	.\xmltok_impl.c	/^PREFIX(attributeValueTok)(const ENCODING *enc, const char *ptr,$/;"	f	file:
+attribute_id	.\xmlparse.c	/^typedef struct attribute_id {$/;"	s	file:
+atts	.\xmlparse.c	636;"	d	file:
+attsSize	.\xmlparse.c	637;"	d	file:
+badPtr	.\xmltok.c	/^               const char **badPtr,$/;"	v	file:
+base	.\xmlparse.c	/^  const XML_Char *base;$/;"	m	struct:__anon10	file:
+betweenDecl	.\xmlparse.c	/^  XML_Bool betweenDecl; \/* WFC: PE Between Declarations *\/$/;"	m	struct:open_internal_entity	file:
+big2_byteToAscii	.\xmltok.c	/^big2_byteToAscii(const ENCODING *enc, const char *p)$/;"	f	file:
+big2_byteType	.\xmltok.c	/^big2_byteType(const ENCODING *enc, const char *p)$/;"	f	file:
+big2_charMatches	.\xmltok.c	/^big2_charMatches(const ENCODING *enc, const char *p, int c)$/;"	f	file:
+big2_encoding	.\xmltok.c	/^static const struct normal_encoding big2_encoding = {$/;"	v	typeref:struct:normal_encoding	file:
+big2_encoding_ns	.\xmltok.c	/^static const struct normal_encoding big2_encoding_ns = {$/;"	v	typeref:struct:normal_encoding	file:
+big2_isNameMin	.\xmltok.c	/^big2_isNameMin(const ENCODING *enc, const char *p)$/;"	f	file:
+big2_isNmstrtMin	.\xmltok.c	/^big2_isNmstrtMin(const ENCODING *enc, const char *p)$/;"	f	file:
+binding	.\xmlparse.c	/^  BINDING *binding;$/;"	m	struct:prefix	file:
+binding	.\xmlparse.c	/^typedef struct binding {$/;"	s	file:
+bindings	.\xmlparse.c	/^  BINDING *bindings;$/;"	m	struct:tag	file:
+block	.\xmlparse.c	/^typedef struct block {$/;"	s	file:
+blocks	.\xmlparse.c	/^  BLOCK *blocks;$/;"	m	struct:__anon12	file:
+buf	.\xmlparse.c	/^  char *buf;                    \/* buffer for name components *\/$/;"	m	struct:tag	file:
+bufEnd	.\xmlparse.c	/^  char *bufEnd;                 \/* end of the buffer *\/$/;"	m	struct:tag	file:
+buffer	.\xmlparse.c	611;"	d	file:
+bufferEnd	.\xmlparse.c	613;"	d	file:
+bufferLim	.\xmlparse.c	616;"	d	file:
+bufferPtr	.\xmlparse.c	612;"	d	file:
+build_model	.\xmlparse.c	/^build_model (XML_Parser parser)$/;"	f	file:
+build_node	.\xmlparse.c	/^build_node(XML_Parser parser,$/;"	f	file:
+byteToAscii	.\xmltok.c	/^  int (PTRFASTCALL *byteToAscii)(const ENCODING *, const char *);$/;"	m	struct:normal_encoding	file:
+byteType	.\xmltok.c	/^  int (PTRFASTCALL *byteType)(const ENCODING *, const char *);$/;"	m	struct:normal_encoding	file:
+cdataSectionProcessor	.\xmlparse.c	/^cdataSectionProcessor(XML_Parser parser,$/;"	f	file:
+cdataSectionProcessor	.\xmlparse.c	/^static Processor cdataSectionProcessor;$/;"	v	file:
+cdataSectionTok	.\xmltok_impl.c	/^PREFIX(cdataSectionTok)(const ENCODING *enc, const char *ptr,$/;"	f	file:
+charMatches	.\xmltok.c	/^  int (PTRCALL *charMatches)(const ENCODING *, const char *, int);$/;"	m	struct:normal_encoding	file:
+charRefNumber	.\xmltok.h	/^  int (PTRFASTCALL *charRefNumber)(const ENCODING *enc, const char *ptr);$/;"	m	struct:encoding
+charRefNumber	.\xmltok_impl.c	/^PREFIX(charRefNumber)(const ENCODING *enc, const char *ptr)$/;"	f	file:
+characterDataHandler	.\xmlparse.c	559;"	d	file:
+checkCharRefNumber	.\xmltok.c	/^checkCharRefNumber(int result)$/;"	f	file:
+checkPiTarget	.\xmltok_impl.c	/^PREFIX(checkPiTarget)(const ENCODING *enc, const char *ptr,$/;"	f	file:
+childcnt	.\xmlparse.c	/^  int                           childcnt;$/;"	m	struct:__anon11	file:
+children	.\expat.h	/^  XML_Content *                 children;$/;"	m	struct:XML_cp
+columnNumber	.\xmltok.h	/^  XML_Size columnNumber;$/;"	m	struct:position
+commentHandler	.\xmlparse.c	562;"	d	file:
+common	.\xmlrole.c	/^common(PROLOG_STATE *state, int tok)$/;"	f	file:
+condSect0	.\xmlrole.c	/^  condSect0, condSect1, condSect2,$/;"	v	file:
+condSect0	.\xmlrole.c	/^condSect0(PROLOG_STATE *state,$/;"	f	file:
+condSect1	.\xmlrole.c	/^  condSect0, condSect1, condSect2,$/;"	v	file:
+condSect1	.\xmlrole.c	/^condSect1(PROLOG_STATE *state,$/;"	f	file:
+condSect2	.\xmlrole.c	/^  condSect0, condSect1, condSect2,$/;"	v	file:
+condSect2	.\xmlrole.c	/^condSect2(PROLOG_STATE *state,$/;"	f	file:
+const	.\macconfig.h	44;"	d
+contentProcessor	.\xmlparse.c	/^contentProcessor(XML_Parser parser,$/;"	f	file:
+contentProcessor	.\xmlparse.c	/^static Processor contentProcessor;$/;"	v	file:
+contentStringLen	.\xmlparse.c	/^  unsigned contentStringLen;$/;"	m	struct:__anon16	file:
+contentTok	.\xmltok_impl.c	/^PREFIX(contentTok)(const ENCODING *enc, const char *ptr, const char *end,$/;"	f	file:
+convert	.\expat.h	/^  int (XMLCALL *convert)(void *data, const char *s);$/;"	m	struct:__anon2
+convert	.\xmltok.c	/^  CONVERTER convert;$/;"	m	struct:unknown_encoding	file:
+copyEntityTable	.\xmlparse.c	/^copyEntityTable(HASH_TABLE *newTable,$/;"	f	file:
+curBase	.\xmlparse.c	620;"	d	file:
+data	.\expat.h	/^  void *data;$/;"	m	struct:__anon2
+dataBuf	.\xmlparse.c	617;"	d	file:
+dataBufEnd	.\xmlparse.c	618;"	d	file:
+declAttributeId	.\xmlparse.c	629;"	d	file:
+declAttributeIsCdata	.\xmlparse.c	630;"	d	file:
+declAttributeIsId	.\xmlparse.c	631;"	d	file:
+declAttributeType	.\xmlparse.c	625;"	d	file:
+declClose	.\xmlrole.c	/^  declClose,$/;"	v	file:
+declClose	.\xmlrole.c	/^declClose(PROLOG_STATE *state,$/;"	f	file:
+declElementType	.\xmlparse.c	628;"	d	file:
+declEntity	.\xmlparse.c	621;"	d	file:
+declNotationName	.\xmlparse.c	626;"	d	file:
+declNotationPublicId	.\xmlparse.c	627;"	d	file:
+defaultAtts	.\xmlparse.c	/^  DEFAULT_ATTRIBUTE *defaultAtts;$/;"	m	struct:__anon15	file:
+defaultExpandInternalEntities	.\xmlparse.c	608;"	d	file:
+defaultHandler	.\xmlparse.c	566;"	d	file:
+defaultPrefix	.\xmlparse.c	/^  PREFIX defaultPrefix;$/;"	m	struct:__anon16	file:
+defineAttribute	.\xmlparse.c	/^defineAttribute(ELEMENT_TYPE *type, ATTRIBUTE_ID *attId, XML_Bool isCdata,$/;"	f	file:
+destroyBindings	.\xmlparse.c	/^destroyBindings(BINDING *bindings, XML_Parser parser)$/;"	f	file:
+doCdataSection	.\xmlparse.c	/^doCdataSection(XML_Parser parser,$/;"	f	file:
+doContent	.\xmlparse.c	/^doContent(XML_Parser parser,$/;"	f	file:
+doIgnoreSection	.\xmlparse.c	/^doIgnoreSection(XML_Parser parser,$/;"	f	file:
+doProlog	.\xmlparse.c	/^doProlog(XML_Parser parser,$/;"	f	file:
+doctype0	.\xmlrole.c	/^  doctype0, doctype1, doctype2, doctype3, doctype4, doctype5,$/;"	v	file:
+doctype0	.\xmlrole.c	/^doctype0(PROLOG_STATE *state,$/;"	f	file:
+doctype1	.\xmlrole.c	/^  doctype0, doctype1, doctype2, doctype3, doctype4, doctype5,$/;"	v	file:
+doctype1	.\xmlrole.c	/^doctype1(PROLOG_STATE *state,$/;"	f	file:
+doctype2	.\xmlrole.c	/^  doctype0, doctype1, doctype2, doctype3, doctype4, doctype5,$/;"	v	file:
+doctype2	.\xmlrole.c	/^doctype2(PROLOG_STATE *state,$/;"	f	file:
+doctype3	.\xmlrole.c	/^  doctype0, doctype1, doctype2, doctype3, doctype4, doctype5,$/;"	v	file:
+doctype3	.\xmlrole.c	/^doctype3(PROLOG_STATE *state,$/;"	f	file:
+doctype4	.\xmlrole.c	/^  doctype0, doctype1, doctype2, doctype3, doctype4, doctype5,$/;"	v	file:
+doctype4	.\xmlrole.c	/^doctype4(PROLOG_STATE *state,$/;"	f	file:
+doctype5	.\xmlrole.c	/^  doctype0, doctype1, doctype2, doctype3, doctype4, doctype5,$/;"	v	file:
+doctype5	.\xmlrole.c	/^doctype5(PROLOG_STATE *state,$/;"	f	file:
+doctypeName	.\xmlparse.c	622;"	d	file:
+doctypePubid	.\xmlparse.c	624;"	d	file:
+doctypeSysid	.\xmlparse.c	623;"	d	file:
+documentEntity	.\xmlrole.h	/^  int documentEntity;$/;"	m	struct:prolog_state
+dtdCopy	.\xmlparse.c	/^dtdCopy(DTD *newDtd, const DTD *oldDtd, const XML_Memory_Handling_Suite *ms)$/;"	f	file:
+dtdCreate	.\xmlparse.c	/^dtdCreate(const XML_Memory_Handling_Suite *ms)$/;"	f	file:
+dtdDestroy	.\xmlparse.c	/^dtdDestroy(DTD *p, XML_Bool isDocEntity, const XML_Memory_Handling_Suite *ms)$/;"	f	file:
+dtdReset	.\xmlparse.c	/^dtdReset(DTD *p, const XML_Memory_Handling_Suite *ms)$/;"	f	file:
+element0	.\xmlrole.c	/^  element0, element1, element2, element3, element4, element5, element6,$/;"	v	file:
+element0	.\xmlrole.c	/^element0(PROLOG_STATE *state,$/;"	f	file:
+element1	.\xmlrole.c	/^  element0, element1, element2, element3, element4, element5, element6,$/;"	v	file:
+element1	.\xmlrole.c	/^element1(PROLOG_STATE *state,$/;"	f	file:
+element2	.\xmlrole.c	/^  element0, element1, element2, element3, element4, element5, element6,$/;"	v	file:
+element2	.\xmlrole.c	/^element2(PROLOG_STATE *state,$/;"	f	file:
+element3	.\xmlrole.c	/^  element0, element1, element2, element3, element4, element5, element6,$/;"	v	file:
+element3	.\xmlrole.c	/^element3(PROLOG_STATE *state,$/;"	f	file:
+element4	.\xmlrole.c	/^  element0, element1, element2, element3, element4, element5, element6,$/;"	v	file:
+element4	.\xmlrole.c	/^element4(PROLOG_STATE *state,$/;"	f	file:
+element5	.\xmlrole.c	/^  element0, element1, element2, element3, element4, element5, element6,$/;"	v	file:
+element5	.\xmlrole.c	/^element5(PROLOG_STATE *state,$/;"	f	file:
+element6	.\xmlrole.c	/^  element0, element1, element2, element3, element4, element5, element6,$/;"	v	file:
+element6	.\xmlrole.c	/^element6(PROLOG_STATE *state,$/;"	f	file:
+element7	.\xmlrole.c	/^  element7,$/;"	v	file:
+element7	.\xmlrole.c	/^element7(PROLOG_STATE *state,$/;"	f	file:
+elementDeclHandler	.\xmlparse.c	584;"	d	file:
+elementTypes	.\xmlparse.c	/^  HASH_TABLE elementTypes;$/;"	m	struct:__anon16	file:
+enc	.\xmltok.c	/^               const ENCODING *enc,$/;"	v	file:
+enc	.\xmltok.c	/^  ENCODING enc;$/;"	m	struct:normal_encoding	file:
+encPtr	.\xmltok.h	/^  const ENCODING **encPtr;$/;"	m	struct:__anon21
+encoding	.\expat.h	/^XML_ParserCreate(const XML_Char *encoding);$/;"	v
+encoding	.\xmlparse.c	588;"	d	file:
+encoding	.\xmltok.c	/^               const ENCODING **encoding,$/;"	v	file:
+encoding	.\xmltok.h	/^struct encoding {$/;"	s
+encodingName	.\xmltok.c	/^               const char **encodingName,$/;"	v	file:
+end	.\xmlparse.c	/^  NAMED **end;$/;"	m	struct:__anon8	file:
+end	.\xmlparse.c	/^  const XML_Char *end;$/;"	m	struct:__anon12	file:
+end	.\xmltok.c	/^               const char *end,$/;"	v	file:
+endCdataSectionHandler	.\xmlparse.c	565;"	d	file:
+endDoctypeDeclHandler	.\xmlparse.c	568;"	d	file:
+endElementHandler	.\xmlparse.c	558;"	d	file:
+endNamespaceDeclHandler	.\xmlparse.c	574;"	d	file:
+entity	.\xmlparse.c	/^  ENTITY *entity;$/;"	m	struct:open_internal_entity	file:
+entity0	.\xmlrole.c	/^  entity0, entity1, entity2, entity3, entity4, entity5, entity6,$/;"	v	file:
+entity0	.\xmlrole.c	/^entity0(PROLOG_STATE *state,$/;"	f	file:
+entity1	.\xmlrole.c	/^  entity0, entity1, entity2, entity3, entity4, entity5, entity6,$/;"	v	file:
+entity1	.\xmlrole.c	/^entity1(PROLOG_STATE *state,$/;"	f	file:
+entity10	.\xmlrole.c	/^  entity7, entity8, entity9, entity10,$/;"	v	file:
+entity10	.\xmlrole.c	/^entity10(PROLOG_STATE *state,$/;"	f	file:
+entity2	.\xmlrole.c	/^  entity0, entity1, entity2, entity3, entity4, entity5, entity6,$/;"	v	file:
+entity2	.\xmlrole.c	/^entity2(PROLOG_STATE *state,$/;"	f	file:
+entity3	.\xmlrole.c	/^  entity0, entity1, entity2, entity3, entity4, entity5, entity6,$/;"	v	file:
+entity3	.\xmlrole.c	/^entity3(PROLOG_STATE *state,$/;"	f	file:
+entity4	.\xmlrole.c	/^  entity0, entity1, entity2, entity3, entity4, entity5, entity6,$/;"	v	file:
+entity4	.\xmlrole.c	/^entity4(PROLOG_STATE *state,$/;"	f	file:
+entity5	.\xmlrole.c	/^  entity0, entity1, entity2, entity3, entity4, entity5, entity6,$/;"	v	file:
+entity5	.\xmlrole.c	/^entity5(PROLOG_STATE *state,$/;"	f	file:
+entity6	.\xmlrole.c	/^  entity0, entity1, entity2, entity3, entity4, entity5, entity6,$/;"	v	file:
+entity6	.\xmlrole.c	/^entity6(PROLOG_STATE *state,$/;"	f	file:
+entity7	.\xmlrole.c	/^  entity7, entity8, entity9, entity10,$/;"	v	file:
+entity7	.\xmlrole.c	/^entity7(PROLOG_STATE *state,$/;"	f	file:
+entity8	.\xmlrole.c	/^  entity7, entity8, entity9, entity10,$/;"	v	file:
+entity8	.\xmlrole.c	/^entity8(PROLOG_STATE *state,$/;"	f	file:
+entity9	.\xmlrole.c	/^  entity7, entity8, entity9, entity10,$/;"	v	file:
+entity9	.\xmlrole.c	/^entity9(PROLOG_STATE *state,$/;"	f	file:
+entityDeclHandler	.\xmlparse.c	586;"	d	file:
+entityValueInitProcessor	.\xmlparse.c	/^entityValueInitProcessor(XML_Parser parser,$/;"	f	file:
+entityValueInitProcessor	.\xmlparse.c	/^static Processor entityValueInitProcessor;$/;"	v	file:
+entityValuePool	.\xmlparse.c	/^  STRING_POOL entityValuePool;$/;"	m	struct:__anon16	file:
+entityValueProcessor	.\xmlparse.c	/^entityValueProcessor(XML_Parser parser,$/;"	f	file:
+entityValueProcessor	.\xmlparse.c	/^static Processor entityValueProcessor;$/;"	v	file:
+entityValueTok	.\xmltok_impl.c	/^PREFIX(entityValueTok)(const ENCODING *enc, const char *ptr,$/;"	f	file:
+epilogProcessor	.\xmlparse.c	/^epilogProcessor(XML_Parser parser,$/;"	f	file:
+epilogProcessor	.\xmlparse.c	/^static Processor epilogProcessor;$/;"	v	file:
+error	.\xmlrole.c	/^  error;$/;"	v	file:
+error	.\xmlrole.c	/^error(PROLOG_STATE *state,$/;"	f	file:
+errorCode	.\xmlparse.c	601;"	d	file:
+errorProcessor	.\xmlparse.c	/^errorProcessor(XML_Parser parser,$/;"	f	file:
+errorProcessor	.\xmlparse.c	/^static Processor errorProcessor;$/;"	v	file:
+eventEndPtr	.\xmlparse.c	603;"	d	file:
+eventPtr	.\xmlparse.c	602;"	d	file:
+externalEntityContentProcessor	.\xmlparse.c	/^externalEntityContentProcessor(XML_Parser parser,$/;"	f	file:
+externalEntityContentProcessor	.\xmlparse.c	/^static Processor externalEntityContentProcessor;$/;"	v	file:
+externalEntityInitProcessor	.\xmlparse.c	/^externalEntityInitProcessor(XML_Parser parser,$/;"	f	file:
+externalEntityInitProcessor	.\xmlparse.c	/^static Processor externalEntityInitProcessor;$/;"	v	file:
+externalEntityInitProcessor2	.\xmlparse.c	/^externalEntityInitProcessor2(XML_Parser parser,$/;"	f	file:
+externalEntityInitProcessor2	.\xmlparse.c	/^static Processor externalEntityInitProcessor2;$/;"	v	file:
+externalEntityInitProcessor3	.\xmlparse.c	/^externalEntityInitProcessor3(XML_Parser parser,$/;"	f	file:
+externalEntityInitProcessor3	.\xmlparse.c	/^static Processor externalEntityInitProcessor3;$/;"	v	file:
+externalEntityRefHandler	.\xmlparse.c	576;"	d	file:
+externalEntityRefHandlerArg	.\xmlparse.c	578;"	d	file:
+externalParEntInitProcessor	.\xmlparse.c	/^externalParEntInitProcessor(XML_Parser parser,$/;"	f	file:
+externalParEntInitProcessor	.\xmlparse.c	/^static Processor externalParEntInitProcessor;$/;"	v	file:
+externalParEntProcessor	.\xmlparse.c	/^externalParEntProcessor(XML_Parser parser,$/;"	f	file:
+externalParEntProcessor	.\xmlparse.c	/^static Processor externalParEntProcessor;$/;"	v	file:
+externalSubset0	.\xmlrole.c	/^  externalSubset0, externalSubset1,$/;"	v	file:
+externalSubset0	.\xmlrole.c	/^externalSubset0(PROLOG_STATE *state,$/;"	f	file:
+externalSubset1	.\xmlrole.c	/^  externalSubset0, externalSubset1,$/;"	v	file:
+externalSubset1	.\xmlrole.c	/^externalSubset1(PROLOG_STATE *state,$/;"	f	file:
+feature	.\expat.h	/^  enum XML_FeatureEnum  feature;$/;"	m	struct:__anon5	typeref:enum:__anon5::XML_FeatureEnum
+finalBuffer	.\expat.h	/^  XML_Bool finalBuffer;$/;"	m	struct:__anon3
+findEncoding	.\xmltok_ns.c	/^NS(findEncoding)(const ENCODING *enc, const char *ptr, const char *end)$/;"	f	file:
+firstchild	.\xmlparse.c	/^  int                           firstchild;$/;"	m	struct:__anon11	file:
+freeBindingList	.\xmlparse.c	633;"	d	file:
+freeBlocks	.\xmlparse.c	/^  BLOCK *freeBlocks;$/;"	m	struct:__anon12	file:
+freeInternalEntities	.\xmlparse.c	607;"	d	file:
+freeTagList	.\xmlparse.c	632;"	d	file:
+free_fcn	.\expat.h	/^  void (*free_fcn)(void *ptr);$/;"	m	struct:__anon1
+generalEntities	.\xmlparse.c	/^  HASH_TABLE generalEntities;$/;"	m	struct:__anon16	file:
+getAttributeId	.\xmlparse.c	/^getAttributeId(XML_Parser parser, const ENCODING *enc,$/;"	f	file:
+getAtts	.\xmltok.h	/^  int (PTRCALL *getAtts)(const ENCODING *enc,$/;"	m	struct:encoding
+getAtts	.\xmltok_impl.c	/^PREFIX(getAtts)(const ENCODING *enc, const char *ptr,$/;"	f	file:
+getContext	.\xmlparse.c	/^getContext(XML_Parser parser)$/;"	f	file:
+getElementType	.\xmlparse.c	/^getElementType(XML_Parser parser,$/;"	f	file:
+getEncodingIndex	.\xmltok.c	/^getEncodingIndex(const char *name)$/;"	f	file:
+groupConnector	.\xmlparse.c	645;"	d	file:
+groupSize	.\xmlparse.c	646;"	d	file:
+handleUnknownEncoding	.\xmlparse.c	/^handleUnknownEncoding(XML_Parser parser, const XML_Char *encodingName)$/;"	f	file:
+handler	.\xmlrole.h	/^  int (PTRCALL *handler) (struct prolog_state *state,$/;"	m	struct:prolog_state
+handlerArg	.\xmlparse.c	556;"	d	file:
+hasParamEntityRefs	.\xmlparse.c	/^  XML_Bool hasParamEntityRefs;$/;"	m	struct:__anon16	file:
+hash	.\xmlparse.c	/^  unsigned long hash;$/;"	m	struct:__anon14	file:
+hash	.\xmlparse.c	/^hash(KEY s)$/;"	f	file:
+hashTableClear	.\xmlparse.c	/^hashTableClear(HASH_TABLE *table)$/;"	f	file:
+hashTableDestroy	.\xmlparse.c	/^hashTableDestroy(HASH_TABLE *table)$/;"	f	file:
+hashTableInit	.\xmlparse.c	/^hashTableInit(HASH_TABLE *p, const XML_Memory_Handling_Suite *ms)$/;"	f	file:
+hashTableIterInit	.\xmlparse.c	/^hashTableIterInit(HASH_TABLE_ITER *iter, const HASH_TABLE *table)$/;"	f	file:
+hashTableIterNext	.\xmlparse.c	/^hashTableIterNext(HASH_TABLE_ITER *iter)$/;"	f	file:
+id	.\xmlparse.c	/^  const ATTRIBUTE_ID *id;$/;"	m	struct:__anon13	file:
+idAtt	.\xmlparse.c	/^  const ATTRIBUTE_ID *idAtt;$/;"	m	struct:__anon15	file:
+idAttIndex	.\xmlparse.c	639;"	d	file:
+ignoreSectionProcessor	.\xmlparse.c	/^ignoreSectionProcessor(XML_Parser parser,$/;"	f	file:
+ignoreSectionProcessor	.\xmlparse.c	/^static Processor ignoreSectionProcessor;$/;"	v	file:
+ignoreSectionTok	.\xmltok_impl.c	/^PREFIX(ignoreSectionTok)(const ENCODING *enc, const char *ptr,$/;"	f	file:
+implicitContext	.\xmlparse.c	/^static const XML_Char implicitContext[] = {$/;"	v	file:
+inEntityValue	.\xmlrole.h	/^  int inEntityValue;$/;"	m	struct:prolog_state
+in_eldecl	.\xmlparse.c	/^  XML_Bool in_eldecl;$/;"	m	struct:__anon16	file:
+includeLevel	.\xmlrole.h	/^  unsigned includeLevel;$/;"	m	struct:prolog_state
+inheritedBindings	.\xmlparse.c	634;"	d	file:
+initEnc	.\xmltok.h	/^  ENCODING initEnc;$/;"	m	struct:__anon21
+initEncoding	.\xmlparse.c	589;"	d	file:
+initScan	.\xmltok.c	/^initScan(const ENCODING * const *encodingTable,$/;"	f	file:
+initScanContent	.\xmltok_ns.c	/^NS(initScanContent)(const ENCODING *enc, const char *ptr, const char *end,$/;"	f	file:
+initScanProlog	.\xmltok_ns.c	/^NS(initScanProlog)(const ENCODING *enc, const char *ptr, const char *end,$/;"	f	file:
+initUpdatePosition	.\xmltok.c	/^initUpdatePosition(const ENCODING *enc, const char *ptr,$/;"	f	file:
+initializeEncoding	.\xmlparse.c	/^initializeEncoding(XML_Parser parser)$/;"	f	file:
+inline	.\internal.h	62;"	d
+inline	.\internal.h	68;"	d
+inline	.\internal.h	71;"	d
+internalEncoding	.\xmlparse.c	590;"	d	file:
+internalEntityProcessor	.\xmlparse.c	/^internalEntityProcessor(XML_Parser parser,$/;"	f	file:
+internalEntityProcessor	.\xmlparse.c	/^static Processor internalEntityProcessor;$/;"	v	file:
+internalEntityRefHandler	.\xmlparse.c	580;"	d	file:
+internalEventEndPtr	.\xmlparse.c	/^  const char *internalEventEndPtr;$/;"	m	struct:open_internal_entity	file:
+internalEventPtr	.\xmlparse.c	/^  const char *internalEventPtr;$/;"	m	struct:open_internal_entity	file:
+internalSubset	.\xmlrole.c	/^  internalSubset,$/;"	v	file:
+internalSubset	.\xmlrole.c	/^internalSubset(PROLOG_STATE *state,$/;"	f	file:
+internal_big2_encoding	.\xmltok.c	/^static const struct normal_encoding internal_big2_encoding = {$/;"	v	typeref:struct:normal_encoding	file:
+internal_big2_encoding_ns	.\xmltok.c	/^static const struct normal_encoding internal_big2_encoding_ns = {$/;"	v	typeref:struct:normal_encoding	file:
+internal_little2_encoding	.\xmltok.c	/^static const struct normal_encoding internal_little2_encoding = {$/;"	v	typeref:struct:normal_encoding	file:
+internal_little2_encoding_ns	.\xmltok.c	/^static const struct normal_encoding internal_little2_encoding_ns = {$/;"	v	typeref:struct:normal_encoding	file:
+internal_utf8_encoding	.\xmltok.c	/^static const struct normal_encoding internal_utf8_encoding = {$/;"	v	typeref:struct:normal_encoding	file:
+internal_utf8_encoding_ns	.\xmltok.c	/^static const struct normal_encoding internal_utf8_encoding_ns = {$/;"	v	typeref:struct:normal_encoding	file:
+isCdata	.\xmlparse.c	/^  XML_Bool isCdata;$/;"	m	struct:__anon13	file:
+isGeneralTextEntity	.\xmltok.c	/^               int isGeneralTextEntity,$/;"	v	file:
+isInvalid2	.\xmltok.c	/^  int (PTRFASTCALL *isInvalid2)(const ENCODING *, const char *);$/;"	m	struct:normal_encoding	file:
+isInvalid3	.\xmltok.c	/^  int (PTRFASTCALL *isInvalid3)(const ENCODING *, const char *);$/;"	m	struct:normal_encoding	file:
+isInvalid4	.\xmltok.c	/^  int (PTRFASTCALL *isInvalid4)(const ENCODING *, const char *);$/;"	m	struct:normal_encoding	file:
+isName2	.\xmltok.c	/^  int (PTRFASTCALL *isName2)(const ENCODING *, const char *);$/;"	m	struct:normal_encoding	file:
+isName3	.\xmltok.c	/^  int (PTRFASTCALL *isName3)(const ENCODING *, const char *);$/;"	m	struct:normal_encoding	file:
+isName4	.\xmltok.c	/^  int (PTRFASTCALL *isName4)(const ENCODING *, const char *);$/;"	m	struct:normal_encoding	file:
+isNameMin	.\xmltok.c	/^  int (PTRFASTCALL *isNameMin)(const ENCODING *, const char *);$/;"	m	struct:normal_encoding	file:
+isNever	.\xmltok.c	/^isNever(const ENCODING *enc, const char *p)$/;"	f	file:
+isNmstrt2	.\xmltok.c	/^  int (PTRFASTCALL *isNmstrt2)(const ENCODING *, const char *);$/;"	m	struct:normal_encoding	file:
+isNmstrt3	.\xmltok.c	/^  int (PTRFASTCALL *isNmstrt3)(const ENCODING *, const char *);$/;"	m	struct:normal_encoding	file:
+isNmstrt4	.\xmltok.c	/^  int (PTRFASTCALL *isNmstrt4)(const ENCODING *, const char *);$/;"	m	struct:normal_encoding	file:
+isNmstrtMin	.\xmltok.c	/^  int (PTRFASTCALL *isNmstrtMin)(const ENCODING *, const char *);$/;"	m	struct:normal_encoding	file:
+isParamEntity	.\xmlparse.c	652;"	d	file:
+isPublicId	.\xmltok.h	/^  int (PTRCALL *isPublicId)(const ENCODING *enc,$/;"	m	struct:encoding
+isPublicId	.\xmltok_impl.c	/^PREFIX(isPublicId)(const ENCODING *enc, const char *ptr, const char *end,$/;"	f	file:
+isSpace	.\xmltok.c	/^isSpace(int c)$/;"	f	file:
+isUtf16	.\xmltok.h	/^  char isUtf16;$/;"	m	struct:encoding
+isUtf8	.\xmltok.h	/^  char isUtf8;$/;"	m	struct:encoding
+is_internal	.\xmlparse.c	/^  XML_Bool is_internal; \/* true if declared in internal subset outside PE *\/$/;"	m	struct:__anon10	file:
+is_param	.\xmlparse.c	/^  XML_Bool is_param;$/;"	m	struct:__anon10	file:
+keepProcessing	.\xmlparse.c	/^  XML_Bool keepProcessing;$/;"	m	struct:__anon16	file:
+keyeq	.\xmlparse.c	/^keyeq(KEY s1, KEY s2)$/;"	f	file:
+lastchild	.\xmlparse.c	/^  int                           lastchild;$/;"	m	struct:__anon11	file:
+latin1_encoding	.\xmltok.c	/^static const struct normal_encoding latin1_encoding = {$/;"	v	typeref:struct:normal_encoding	file:
+latin1_encoding_ns	.\xmltok.c	/^static const struct normal_encoding latin1_encoding_ns = {$/;"	v	typeref:struct:normal_encoding	file:
+latin1_toUtf16	.\xmltok.c	/^latin1_toUtf16(const ENCODING *enc,$/;"	f	file:
+latin1_toUtf8	.\xmltok.c	/^latin1_toUtf8(const ENCODING *enc,$/;"	f	file:
+level	.\xmlrole.h	/^  unsigned level;$/;"	m	struct:prolog_state
+lineNumber	.\xmltok.h	/^  XML_Size lineNumber;$/;"	m	struct:position
+literalScanners	.\xmltok.h	/^  SCANNER literalScanners[XML_N_LITERAL_TYPES];$/;"	m	struct:encoding
+little2_byteToAscii	.\xmltok.c	/^little2_byteToAscii(const ENCODING *enc, const char *p)$/;"	f	file:
+little2_byteType	.\xmltok.c	/^little2_byteType(const ENCODING *enc, const char *p)$/;"	f	file:
+little2_charMatches	.\xmltok.c	/^little2_charMatches(const ENCODING *enc, const char *p, int c)$/;"	f	file:
+little2_encoding	.\xmltok.c	/^static const struct normal_encoding little2_encoding = {$/;"	v	typeref:struct:normal_encoding	file:
+little2_encoding_ns	.\xmltok.c	/^static const struct normal_encoding little2_encoding_ns = {$/;"	v	typeref:struct:normal_encoding	file:
+little2_isNameMin	.\xmltok.c	/^little2_isNameMin(const ENCODING *enc, const char *p)$/;"	f	file:
+little2_isNmstrtMin	.\xmltok.c	/^little2_isNmstrtMin(const ENCODING *enc, const char *p)$/;"	f	file:
+localPart	.\xmlparse.c	/^  const XML_Char *localPart;$/;"	m	struct:__anon9	file:
+lookup	.\xmlparse.c	/^lookup(HASH_TABLE *table, KEY name, size_t createSize)$/;"	f	file:
+m_attlistDeclHandler	.\xmlparse.c	/^  XML_AttlistDeclHandler m_attlistDeclHandler;$/;"	m	struct:XML_ParserStruct	file:
+m_atts	.\xmlparse.c	/^  ATTRIBUTE *m_atts;$/;"	m	struct:XML_ParserStruct	file:
+m_attsSize	.\xmlparse.c	/^  int m_attsSize;$/;"	m	struct:XML_ParserStruct	file:
+m_buffer	.\xmlparse.c	/^  char *m_buffer;$/;"	m	struct:XML_ParserStruct	file:
+m_bufferEnd	.\xmlparse.c	/^  char *m_bufferEnd;$/;"	m	struct:XML_ParserStruct	file:
+m_bufferLim	.\xmlparse.c	/^  const char *m_bufferLim;$/;"	m	struct:XML_ParserStruct	file:
+m_bufferPtr	.\xmlparse.c	/^  const char *m_bufferPtr;$/;"	m	struct:XML_ParserStruct	file:
+m_characterDataHandler	.\xmlparse.c	/^  XML_CharacterDataHandler m_characterDataHandler;$/;"	m	struct:XML_ParserStruct	file:
+m_commentHandler	.\xmlparse.c	/^  XML_CommentHandler m_commentHandler;$/;"	m	struct:XML_ParserStruct	file:
+m_curBase	.\xmlparse.c	/^  const XML_Char *m_curBase;$/;"	m	struct:XML_ParserStruct	file:
+m_dataBuf	.\xmlparse.c	/^  XML_Char *m_dataBuf;$/;"	m	struct:XML_ParserStruct	file:
+m_dataBufEnd	.\xmlparse.c	/^  XML_Char *m_dataBufEnd;$/;"	m	struct:XML_ParserStruct	file:
+m_declAttributeId	.\xmlparse.c	/^  ATTRIBUTE_ID *m_declAttributeId;$/;"	m	struct:XML_ParserStruct	file:
+m_declAttributeIsCdata	.\xmlparse.c	/^  XML_Bool m_declAttributeIsCdata;$/;"	m	struct:XML_ParserStruct	file:
+m_declAttributeIsId	.\xmlparse.c	/^  XML_Bool m_declAttributeIsId;$/;"	m	struct:XML_ParserStruct	file:
+m_declAttributeType	.\xmlparse.c	/^  const XML_Char *m_declAttributeType;$/;"	m	struct:XML_ParserStruct	file:
+m_declElementType	.\xmlparse.c	/^  ELEMENT_TYPE *m_declElementType;$/;"	m	struct:XML_ParserStruct	file:
+m_declEntity	.\xmlparse.c	/^  ENTITY *m_declEntity;$/;"	m	struct:XML_ParserStruct	file:
+m_declNotationName	.\xmlparse.c	/^  const XML_Char *m_declNotationName;$/;"	m	struct:XML_ParserStruct	file:
+m_declNotationPublicId	.\xmlparse.c	/^  const XML_Char *m_declNotationPublicId;$/;"	m	struct:XML_ParserStruct	file:
+m_defaultExpandInternalEntities	.\xmlparse.c	/^  XML_Bool m_defaultExpandInternalEntities;$/;"	m	struct:XML_ParserStruct	file:
+m_defaultHandler	.\xmlparse.c	/^  XML_DefaultHandler m_defaultHandler;$/;"	m	struct:XML_ParserStruct	file:
+m_doctypeName	.\xmlparse.c	/^  const XML_Char *m_doctypeName;$/;"	m	struct:XML_ParserStruct	file:
+m_doctypePubid	.\xmlparse.c	/^  const XML_Char *m_doctypePubid;$/;"	m	struct:XML_ParserStruct	file:
+m_doctypeSysid	.\xmlparse.c	/^  const XML_Char *m_doctypeSysid;$/;"	m	struct:XML_ParserStruct	file:
+m_dtd	.\xmlparse.c	/^  DTD *m_dtd;$/;"	m	struct:XML_ParserStruct	file:
+m_elementDeclHandler	.\xmlparse.c	/^  XML_ElementDeclHandler m_elementDeclHandler;$/;"	m	struct:XML_ParserStruct	file:
+m_encoding	.\xmlparse.c	/^  const ENCODING *m_encoding;$/;"	m	struct:XML_ParserStruct	file:
+m_endCdataSectionHandler	.\xmlparse.c	/^  XML_EndCdataSectionHandler m_endCdataSectionHandler;$/;"	m	struct:XML_ParserStruct	file:
+m_endDoctypeDeclHandler	.\xmlparse.c	/^  XML_EndDoctypeDeclHandler m_endDoctypeDeclHandler;$/;"	m	struct:XML_ParserStruct	file:
+m_endElementHandler	.\xmlparse.c	/^  XML_EndElementHandler m_endElementHandler;$/;"	m	struct:XML_ParserStruct	file:
+m_endNamespaceDeclHandler	.\xmlparse.c	/^  XML_EndNamespaceDeclHandler m_endNamespaceDeclHandler;$/;"	m	struct:XML_ParserStruct	file:
+m_entityDeclHandler	.\xmlparse.c	/^  XML_EntityDeclHandler m_entityDeclHandler;$/;"	m	struct:XML_ParserStruct	file:
+m_errorCode	.\xmlparse.c	/^  enum XML_Error m_errorCode;$/;"	m	struct:XML_ParserStruct	typeref:enum:XML_ParserStruct::XML_Error	file:
+m_eventEndPtr	.\xmlparse.c	/^  const char *m_eventEndPtr;$/;"	m	struct:XML_ParserStruct	file:
+m_eventPtr	.\xmlparse.c	/^  const char *m_eventPtr;$/;"	m	struct:XML_ParserStruct	file:
+m_externalEntityRefHandler	.\xmlparse.c	/^  XML_ExternalEntityRefHandler m_externalEntityRefHandler;$/;"	m	struct:XML_ParserStruct	file:
+m_externalEntityRefHandlerArg	.\xmlparse.c	/^  XML_Parser m_externalEntityRefHandlerArg;$/;"	m	struct:XML_ParserStruct	file:
+m_freeBindingList	.\xmlparse.c	/^  BINDING *m_freeBindingList;$/;"	m	struct:XML_ParserStruct	file:
+m_freeInternalEntities	.\xmlparse.c	/^  OPEN_INTERNAL_ENTITY *m_freeInternalEntities;$/;"	m	struct:XML_ParserStruct	file:
+m_freeTagList	.\xmlparse.c	/^  TAG *m_freeTagList;$/;"	m	struct:XML_ParserStruct	file:
+m_groupConnector	.\xmlparse.c	/^  char *m_groupConnector;$/;"	m	struct:XML_ParserStruct	file:
+m_groupSize	.\xmlparse.c	/^  unsigned int m_groupSize;$/;"	m	struct:XML_ParserStruct	file:
+m_handlerArg	.\xmlparse.c	/^  void *m_handlerArg;$/;"	m	struct:XML_ParserStruct	file:
+m_idAttIndex	.\xmlparse.c	/^  int m_idAttIndex;$/;"	m	struct:XML_ParserStruct	file:
+m_inheritedBindings	.\xmlparse.c	/^  BINDING *m_inheritedBindings;$/;"	m	struct:XML_ParserStruct	file:
+m_initEncoding	.\xmlparse.c	/^  INIT_ENCODING m_initEncoding;$/;"	m	struct:XML_ParserStruct	file:
+m_internalEncoding	.\xmlparse.c	/^  const ENCODING *m_internalEncoding;$/;"	m	struct:XML_ParserStruct	file:
+m_isParamEntity	.\xmlparse.c	/^  XML_Bool m_isParamEntity;$/;"	m	struct:XML_ParserStruct	file:
+m_mem	.\xmlparse.c	/^  const XML_Memory_Handling_Suite m_mem;$/;"	m	struct:XML_ParserStruct	file:
+m_nSpecifiedAtts	.\xmlparse.c	/^  int m_nSpecifiedAtts;$/;"	m	struct:XML_ParserStruct	file:
+m_namespaceSeparator	.\xmlparse.c	/^  XML_Char m_namespaceSeparator;$/;"	m	struct:XML_ParserStruct	file:
+m_notStandaloneHandler	.\xmlparse.c	/^  XML_NotStandaloneHandler m_notStandaloneHandler;$/;"	m	struct:XML_ParserStruct	file:
+m_notationDeclHandler	.\xmlparse.c	/^  XML_NotationDeclHandler m_notationDeclHandler;$/;"	m	struct:XML_ParserStruct	file:
+m_ns	.\xmlparse.c	/^  XML_Bool m_ns;$/;"	m	struct:XML_ParserStruct	file:
+m_nsAtts	.\xmlparse.c	/^  NS_ATT *m_nsAtts;$/;"	m	struct:XML_ParserStruct	file:
+m_nsAttsPower	.\xmlparse.c	/^  unsigned char m_nsAttsPower;$/;"	m	struct:XML_ParserStruct	file:
+m_nsAttsVersion	.\xmlparse.c	/^  unsigned long m_nsAttsVersion;$/;"	m	struct:XML_ParserStruct	file:
+m_ns_triplets	.\xmlparse.c	/^  XML_Bool m_ns_triplets;$/;"	m	struct:XML_ParserStruct	file:
+m_openInternalEntities	.\xmlparse.c	/^  OPEN_INTERNAL_ENTITY *m_openInternalEntities;$/;"	m	struct:XML_ParserStruct	file:
+m_paramEntityParsing	.\xmlparse.c	/^  enum XML_ParamEntityParsing m_paramEntityParsing;$/;"	m	struct:XML_ParserStruct	typeref:enum:XML_ParserStruct::XML_ParamEntityParsing	file:
+m_parentParser	.\xmlparse.c	/^  XML_Parser m_parentParser;$/;"	m	struct:XML_ParserStruct	file:
+m_parseEndByteIndex	.\xmlparse.c	/^  XML_Index m_parseEndByteIndex;$/;"	m	struct:XML_ParserStruct	file:
+m_parseEndPtr	.\xmlparse.c	/^  const char *m_parseEndPtr;$/;"	m	struct:XML_ParserStruct	file:
+m_parsingStatus	.\xmlparse.c	/^  XML_ParsingStatus m_parsingStatus;$/;"	m	struct:XML_ParserStruct	file:
+m_position	.\xmlparse.c	/^  POSITION m_position;$/;"	m	struct:XML_ParserStruct	file:
+m_positionPtr	.\xmlparse.c	/^  const char *m_positionPtr;$/;"	m	struct:XML_ParserStruct	file:
+m_processingInstructionHandler	.\xmlparse.c	/^  XML_ProcessingInstructionHandler m_processingInstructionHandler;$/;"	m	struct:XML_ParserStruct	file:
+m_processor	.\xmlparse.c	/^  Processor *m_processor;$/;"	m	struct:XML_ParserStruct	file:
+m_prologState	.\xmlparse.c	/^  PROLOG_STATE m_prologState;$/;"	m	struct:XML_ParserStruct	file:
+m_protocolEncodingName	.\xmlparse.c	/^  const XML_Char *m_protocolEncodingName;$/;"	m	struct:XML_ParserStruct	file:
+m_skippedEntityHandler	.\xmlparse.c	/^  XML_SkippedEntityHandler m_skippedEntityHandler;$/;"	m	struct:XML_ParserStruct	file:
+m_startCdataSectionHandler	.\xmlparse.c	/^  XML_StartCdataSectionHandler m_startCdataSectionHandler;$/;"	m	struct:XML_ParserStruct	file:
+m_startDoctypeDeclHandler	.\xmlparse.c	/^  XML_StartDoctypeDeclHandler m_startDoctypeDeclHandler;$/;"	m	struct:XML_ParserStruct	file:
+m_startElementHandler	.\xmlparse.c	/^  XML_StartElementHandler m_startElementHandler;$/;"	m	struct:XML_ParserStruct	file:
+m_startNamespaceDeclHandler	.\xmlparse.c	/^  XML_StartNamespaceDeclHandler m_startNamespaceDeclHandler;$/;"	m	struct:XML_ParserStruct	file:
+m_tagLevel	.\xmlparse.c	/^  int m_tagLevel;$/;"	m	struct:XML_ParserStruct	file:
+m_tagStack	.\xmlparse.c	/^  TAG *m_tagStack;$/;"	m	struct:XML_ParserStruct	file:
+m_temp2Pool	.\xmlparse.c	/^  STRING_POOL m_temp2Pool;$/;"	m	struct:XML_ParserStruct	file:
+m_tempPool	.\xmlparse.c	/^  STRING_POOL m_tempPool;$/;"	m	struct:XML_ParserStruct	file:
+m_unknownEncodingData	.\xmlparse.c	/^  void *m_unknownEncodingData;$/;"	m	struct:XML_ParserStruct	file:
+m_unknownEncodingHandler	.\xmlparse.c	/^  XML_UnknownEncodingHandler m_unknownEncodingHandler;$/;"	m	struct:XML_ParserStruct	file:
+m_unknownEncodingHandlerData	.\xmlparse.c	/^  void *m_unknownEncodingHandlerData;$/;"	m	struct:XML_ParserStruct	file:
+m_unknownEncodingMem	.\xmlparse.c	/^  void *m_unknownEncodingMem;$/;"	m	struct:XML_ParserStruct	file:
+m_unknownEncodingRelease	.\xmlparse.c	/^  void (XMLCALL *m_unknownEncodingRelease)(void *);$/;"	m	struct:XML_ParserStruct	file:
+m_unparsedEntityDeclHandler	.\xmlparse.c	/^  XML_UnparsedEntityDeclHandler m_unparsedEntityDeclHandler;$/;"	m	struct:XML_ParserStruct	file:
+m_useForeignDTD	.\xmlparse.c	/^  XML_Bool m_useForeignDTD;$/;"	m	struct:XML_ParserStruct	file:
+m_userData	.\xmlparse.c	/^  void *m_userData;$/;"	m	struct:XML_ParserStruct	file:
+m_xmlDeclHandler	.\xmlparse.c	/^  XML_XmlDeclHandler m_xmlDeclHandler;$/;"	m	struct:XML_ParserStruct	file:
+major	.\expat.h	/^  int major;$/;"	m	struct:__anon4
+malloc_fcn	.\expat.h	/^  void *(*malloc_fcn)(size_t size);$/;"	m	struct:__anon1
+map	.\expat.h	/^  int map[256];$/;"	m	struct:__anon2
+maybeTokenized	.\xmlparse.c	/^  XML_Bool maybeTokenized;$/;"	m	struct:attribute_id	file:
+mem	.\xmlparse.c	/^  const XML_Memory_Handling_Suite *mem;$/;"	m	struct:__anon12	file:
+mem	.\xmlparse.c	/^  const XML_Memory_Handling_Suite *mem;$/;"	m	struct:__anon7	file:
+memmove	.\xmlparse.c	79;"	d	file:
+micro	.\expat.h	/^  int micro;$/;"	m	struct:__anon4
+minBytesPerChar	.\xmltok.h	/^  int minBytesPerChar;$/;"	m	struct:encoding
+minor	.\expat.h	/^  int minor;$/;"	m	struct:__anon4
+moveToFreeBindingList	.\xmlparse.c	/^moveToFreeBindingList(XML_Parser parser, BINDING *bindings)$/;"	f	file:
+nDefaultAtts	.\xmlparse.c	/^  int nDefaultAtts;$/;"	m	struct:__anon15	file:
+nSpecifiedAtts	.\xmlparse.c	638;"	d	file:
+name	.\expat.h	/^  XML_Char *                    name;$/;"	m	struct:XML_cp
+name	.\expat.h	/^  const XML_LChar       *name;$/;"	m	struct:__anon5
+name	.\xmlparse.c	/^  KEY name;$/;"	m	struct:__anon6	file:
+name	.\xmlparse.c	/^  TAG_NAME name;                \/* tagName in the API encoding *\/$/;"	m	struct:tag	file:
+name	.\xmlparse.c	/^  XML_Char *name;$/;"	m	struct:attribute_id	file:
+name	.\xmlparse.c	/^  const XML_Char *              name;$/;"	m	struct:__anon11	file:
+name	.\xmlparse.c	/^  const XML_Char *name;$/;"	m	struct:__anon10	file:
+name	.\xmlparse.c	/^  const XML_Char *name;$/;"	m	struct:__anon15	file:
+name	.\xmlparse.c	/^  const XML_Char *name;$/;"	m	struct:prefix	file:
+name	.\xmltok.h	/^  const char *name;$/;"	m	struct:__anon20
+nameLength	.\xmltok.h	/^  int (PTRFASTCALL *nameLength)(const ENCODING *, const char *);$/;"	m	struct:encoding
+nameLength	.\xmltok_impl.c	/^PREFIX(nameLength)(const ENCODING *enc, const char *ptr)$/;"	f	file:
+nameMatchesAscii	.\xmltok.h	/^  int (PTRCALL *nameMatchesAscii)(const ENCODING *,$/;"	m	struct:encoding
+nameMatchesAscii	.\xmltok_impl.c	/^PREFIX(nameMatchesAscii)(const ENCODING *enc, const char *ptr1,$/;"	f	file:
+namePages	.\nametab.h	/^static const unsigned char namePages[] = {$/;"	v
+namespaceSeparator	.\xmlparse.c	647;"	d	file:
+namingBitmap	.\nametab.h	/^static const unsigned namingBitmap[] = {$/;"	v
+next	.\xmlparse.c	/^  struct block *next;$/;"	m	struct:block	typeref:struct:block::block	file:
+next	.\xmlparse.c	/^  struct open_internal_entity *next;$/;"	m	struct:open_internal_entity	typeref:struct:open_internal_entity::open_internal_entity	file:
+nextScaffoldPart	.\xmlparse.c	/^nextScaffoldPart(XML_Parser parser)$/;"	f	file:
+nextTagBinding	.\xmlparse.c	/^  struct binding *nextTagBinding;$/;"	m	struct:binding	typeref:struct:binding::binding	file:
+nextsib	.\xmlparse.c	/^  int                           nextsib;$/;"	m	struct:__anon11	file:
+nmstrtPages	.\nametab.h	/^static const unsigned char nmstrtPages[] = {$/;"	v
+normal	.\xmltok.c	/^  struct normal_encoding normal;$/;"	m	struct:unknown_encoding	typeref:struct:unknown_encoding::normal_encoding	file:
+normal_encoding	.\xmltok.c	/^struct normal_encoding {$/;"	s	file:
+normalizeLines	.\xmlparse.c	/^normalizeLines(XML_Char *s)$/;"	f	file:
+normalizePublicId	.\xmlparse.c	/^normalizePublicId(XML_Char *publicId)$/;"	f	file:
+normalized	.\xmltok.h	/^  char normalized;$/;"	m	struct:__anon20
+notStandaloneHandler	.\xmlparse.c	575;"	d	file:
+notation	.\xmlparse.c	/^  const XML_Char *notation;$/;"	m	struct:__anon10	file:
+notation0	.\xmlrole.c	/^  notation0, notation1, notation2, notation3, notation4,$/;"	v	file:
+notation0	.\xmlrole.c	/^notation0(PROLOG_STATE *state,$/;"	f	file:
+notation1	.\xmlrole.c	/^  notation0, notation1, notation2, notation3, notation4,$/;"	v	file:
+notation1	.\xmlrole.c	/^notation1(PROLOG_STATE *state,$/;"	f	file:
+notation2	.\xmlrole.c	/^  notation0, notation1, notation2, notation3, notation4,$/;"	v	file:
+notation2	.\xmlrole.c	/^notation2(PROLOG_STATE *state,$/;"	f	file:
+notation3	.\xmlrole.c	/^  notation0, notation1, notation2, notation3, notation4,$/;"	v	file:
+notation3	.\xmlrole.c	/^notation3(PROLOG_STATE *state,$/;"	f	file:
+notation4	.\xmlrole.c	/^  notation0, notation1, notation2, notation3, notation4,$/;"	v	file:
+notation4	.\xmlrole.c	/^notation4(PROLOG_STATE *state,$/;"	f	file:
+notationDeclHandler	.\xmlparse.c	571;"	d	file:
+ns	.\xmlparse.c	597;"	d	file:
+ns	.\xmltok.c	1620;"	d	file:
+ns	.\xmltok.c	1625;"	d	file:
+ns	.\xmltok.c	1630;"	d	file:
+ns	.\xmltok.c	1637;"	d	file:
+nsAtts	.\xmlparse.c	640;"	d	file:
+nsAttsPower	.\xmlparse.c	642;"	d	file:
+nsAttsVersion	.\xmlparse.c	641;"	d	file:
+ns_triplets	.\xmlparse.c	598;"	d	file:
+numchildren	.\expat.h	/^  unsigned int                  numchildren;$/;"	m	struct:XML_cp
+off_t	.\macconfig.h	47;"	d
+open	.\xmlparse.c	/^  XML_Bool open;$/;"	m	struct:__anon10	file:
+openInternalEntities	.\xmlparse.c	606;"	d	file:
+open_internal_entity	.\xmlparse.c	/^typedef struct open_internal_entity {$/;"	s	file:
+p	.\xmlparse.c	/^  NAMED **p;$/;"	m	struct:__anon8	file:
+paramEntities	.\xmlparse.c	/^  HASH_TABLE paramEntities;$/;"	m	struct:__anon16	file:
+paramEntityParsing	.\xmlparse.c	654;"	d	file:
+paramEntityRead	.\xmlparse.c	/^  XML_Bool paramEntityRead;$/;"	m	struct:__anon16	file:
+parent	.\xmlparse.c	/^  struct tag *parent;           \/* parent of this element *\/$/;"	m	struct:tag	typeref:struct:tag::tag	file:
+parentParser	.\xmlparse.c	648;"	d	file:
+parseEndByteIndex	.\xmlparse.c	614;"	d	file:
+parseEndPtr	.\xmlparse.c	615;"	d	file:
+parsePseudoAttribute	.\xmltok.c	/^parsePseudoAttribute(const ENCODING *enc,$/;"	f	file:
+parser	.\expat.h	/^XMLPARSEAPI(XML_Index) XML_GetCurrentByteIndex(XML_Parser parser);$/;"	v
+parser	.\expat.h	/^XMLPARSEAPI(XML_Size) XML_GetCurrentColumnNumber(XML_Parser parser);$/;"	v
+parser	.\expat.h	/^XMLPARSEAPI(XML_Size) XML_GetCurrentLineNumber(XML_Parser parser);$/;"	v
+parser	.\expat.h	/^XML_DefaultCurrent(XML_Parser parser);$/;"	v
+parser	.\expat.h	/^XML_GetBase(XML_Parser parser);$/;"	v
+parser	.\expat.h	/^XML_GetCurrentByteCount(XML_Parser parser);$/;"	v
+parser	.\expat.h	/^XML_GetErrorCode(XML_Parser parser);$/;"	v
+parser	.\expat.h	/^XML_GetIdAttributeIndex(XML_Parser parser);$/;"	v
+parser	.\expat.h	/^XML_GetSpecifiedAttributeCount(XML_Parser parser);$/;"	v
+parser	.\expat.h	/^XML_ParserFree(XML_Parser parser);$/;"	v
+parser	.\expat.h	/^XML_ResumeParser(XML_Parser parser);$/;"	v
+parser	.\expat.h	/^XML_UseParserAsHandlerArg(XML_Parser parser);$/;"	v
+parserCreate	.\xmlparse.c	/^parserCreate(const XML_Char *encodingName,$/;"	f	file:
+parserInit	.\xmlparse.c	/^parserInit(XML_Parser parser, const XML_Char *encodingName)$/;"	f	file:
+parsing	.\expat.h	/^  enum XML_Parsing parsing;$/;"	m	struct:__anon3	typeref:enum:__anon3::XML_Parsing
+pool	.\xmlparse.c	/^  STRING_POOL pool;$/;"	m	struct:__anon16	file:
+poolAppend	.\xmlparse.c	/^poolAppend(STRING_POOL *pool, const ENCODING *enc,$/;"	f	file:
+poolAppendChar	.\xmlparse.c	447;"	d	file:
+poolAppendString	.\xmlparse.c	/^poolAppendString(STRING_POOL *pool, const XML_Char *s)$/;"	f	file:
+poolChop	.\xmlparse.c	443;"	d	file:
+poolClear	.\xmlparse.c	/^poolClear(STRING_POOL *pool)$/;"	f	file:
+poolCopyString	.\xmlparse.c	/^poolCopyString(STRING_POOL *pool, const XML_Char *s)$/;"	f	file:
+poolCopyStringN	.\xmlparse.c	/^poolCopyStringN(STRING_POOL *pool, const XML_Char *s, int n)$/;"	f	file:
+poolDestroy	.\xmlparse.c	/^poolDestroy(STRING_POOL *pool)$/;"	f	file:
+poolDiscard	.\xmlparse.c	445;"	d	file:
+poolEnd	.\xmlparse.c	441;"	d	file:
+poolFinish	.\xmlparse.c	446;"	d	file:
+poolGrow	.\xmlparse.c	/^poolGrow(STRING_POOL *pool)$/;"	f	file:
+poolInit	.\xmlparse.c	/^poolInit(STRING_POOL *pool, const XML_Memory_Handling_Suite *ms)$/;"	f	file:
+poolLastChar	.\xmlparse.c	444;"	d	file:
+poolLength	.\xmlparse.c	442;"	d	file:
+poolStart	.\xmlparse.c	440;"	d	file:
+poolStoreString	.\xmlparse.c	/^poolStoreString(STRING_POOL *pool, const ENCODING *enc,$/;"	f	file:
+position	.\xmlparse.c	605;"	d	file:
+position	.\xmltok.h	/^typedef struct position {$/;"	s
+positionPtr	.\xmlparse.c	604;"	d	file:
+power	.\xmlparse.c	/^  unsigned char power;$/;"	m	struct:__anon7	file:
+predefinedEntityName	.\xmltok.h	/^  int (PTRCALL *predefinedEntityName)(const ENCODING *,$/;"	m	struct:encoding
+predefinedEntityName	.\xmltok_impl.c	/^PREFIX(predefinedEntityName)(const ENCODING *enc, const char *ptr,$/;"	f	file:
+prefix	.\xmlparse.c	/^  PREFIX *prefix;$/;"	m	struct:__anon15	file:
+prefix	.\xmlparse.c	/^  PREFIX *prefix;$/;"	m	struct:attribute_id	file:
+prefix	.\xmlparse.c	/^  const XML_Char *prefix;$/;"	m	struct:__anon9	file:
+prefix	.\xmlparse.c	/^  struct prefix *prefix;$/;"	m	struct:binding	typeref:struct:binding::prefix	file:
+prefix	.\xmlparse.c	/^typedef struct prefix {$/;"	s	file:
+prefixLen	.\xmlparse.c	/^  int prefixLen;$/;"	m	struct:__anon9	file:
+prefixes	.\xmlparse.c	/^  HASH_TABLE prefixes;$/;"	m	struct:__anon16	file:
+prevPrefixBinding	.\xmlparse.c	/^  struct binding *prevPrefixBinding;$/;"	m	struct:binding	typeref:struct:binding::binding	file:
+processInternalEntity	.\xmlparse.c	/^processInternalEntity(XML_Parser parser, ENTITY *entity,$/;"	f	file:
+processXmlDecl	.\xmlparse.c	/^processXmlDecl(XML_Parser parser, int isGeneralTextEntity,$/;"	f	file:
+processed	.\xmlparse.c	/^  int processed;                \/* # of processed bytes - when suspended *\/$/;"	m	struct:__anon10	file:
+processingInstructionHandler	.\xmlparse.c	560;"	d	file:
+processor	.\xmlparse.c	600;"	d	file:
+prolog0	.\xmlrole.c	/^  prolog0, prolog1, prolog2,$/;"	v	file:
+prolog0	.\xmlrole.c	/^prolog0(PROLOG_STATE *state,$/;"	f	file:
+prolog1	.\xmlrole.c	/^  prolog0, prolog1, prolog2,$/;"	v	file:
+prolog1	.\xmlrole.c	/^prolog1(PROLOG_STATE *state,$/;"	f	file:
+prolog2	.\xmlrole.c	/^  prolog0, prolog1, prolog2,$/;"	v	file:
+prolog2	.\xmlrole.c	/^prolog2(PROLOG_STATE *state,$/;"	f	file:
+prologInitProcessor	.\xmlparse.c	/^prologInitProcessor(XML_Parser parser,$/;"	f	file:
+prologInitProcessor	.\xmlparse.c	/^static Processor prologInitProcessor;$/;"	v	file:
+prologProcessor	.\xmlparse.c	/^prologProcessor(XML_Parser parser,$/;"	f	file:
+prologProcessor	.\xmlparse.c	/^static Processor prologProcessor;$/;"	v	file:
+prologState	.\xmlparse.c	599;"	d	file:
+prologTok	.\xmltok_impl.c	/^PREFIX(prologTok)(const ENCODING *enc, const char *ptr, const char *end,$/;"	f	file:
+prolog_state	.\xmlrole.h	/^typedef struct prolog_state {$/;"	s
+protocolEncodingName	.\xmlparse.c	596;"	d	file:
+ps_finalBuffer	.\xmlparse.c	650;"	d	file:
+ps_parsing	.\xmlparse.c	649;"	d	file:
+ptr	.\xmlparse.c	/^  XML_Char *ptr;$/;"	m	struct:__anon12	file:
+ptr	.\xmltok.c	/^               const char *ptr,$/;"	v	file:
+publicId	.\xmlparse.c	/^  const XML_Char *publicId;$/;"	m	struct:__anon10	file:
+quant	.\expat.h	/^  enum XML_Content_Quant        quant;$/;"	m	struct:XML_cp	typeref:enum:XML_cp::XML_Content_Quant
+quant	.\xmlparse.c	/^  enum XML_Content_Quant        quant;$/;"	m	struct:__anon11	typeref:enum:__anon11::XML_Content_Quant	file:
+rawName	.\xmlparse.c	/^  const char *rawName;          \/* tagName in the original encoding *\/$/;"	m	struct:tag	file:
+rawNameLength	.\xmlparse.c	/^  int rawNameLength;$/;"	m	struct:tag	file:
+realloc_fcn	.\expat.h	/^  void *(*realloc_fcn)(void *ptr, size_t size);$/;"	m	struct:__anon1
+release	.\expat.h	/^  void (XMLCALL *release)(void *data);$/;"	m	struct:__anon2
+reportComment	.\xmlparse.c	/^reportComment(XML_Parser parser, const ENCODING *enc,$/;"	f	file:
+reportDefault	.\xmlparse.c	/^reportDefault(XML_Parser parser, const ENCODING *enc,$/;"	f	file:
+reportProcessingInstruction	.\xmlparse.c	/^reportProcessingInstruction(XML_Parser parser, const ENCODING *enc,$/;"	f	file:
+role_none	.\xmlrole.h	/^  int role_none;$/;"	m	struct:prolog_state
+s	.\xmlparse.c	/^  XML_Char s[1];$/;"	m	struct:block	file:
+sameName	.\xmltok.h	/^  int (PTRCALL *sameName)(const ENCODING *,$/;"	m	struct:encoding
+sameName	.\xmltok_impl.c	/^PREFIX(sameName)(const ENCODING *enc, const char *ptr1, const char *ptr2)$/;"	f	file:
+sb_byteToAscii	.\xmltok.c	/^sb_byteToAscii(const ENCODING *enc, const char *p)$/;"	f	file:
+sb_byteType	.\xmltok.c	/^sb_byteType(const ENCODING *enc, const char *p)$/;"	f	file:
+sb_charMatches	.\xmltok.c	/^sb_charMatches(const ENCODING *enc, const char *p, int c)$/;"	f	file:
+sb_isNameMin	.\xmltok.c	231;"	d	file:
+sb_isNmstrtMin	.\xmltok.c	232;"	d	file:
+scaffCount	.\xmlparse.c	/^  unsigned scaffCount;$/;"	m	struct:__anon16	file:
+scaffIndex	.\xmlparse.c	/^  int *scaffIndex;$/;"	m	struct:__anon16	file:
+scaffLevel	.\xmlparse.c	/^  int scaffLevel;$/;"	m	struct:__anon16	file:
+scaffSize	.\xmlparse.c	/^  unsigned scaffSize;$/;"	m	struct:__anon16	file:
+scaffold	.\xmlparse.c	/^  CONTENT_SCAFFOLD *scaffold;$/;"	m	struct:__anon16	file:
+scanAtts	.\xmltok_impl.c	/^PREFIX(scanAtts)(const ENCODING *enc, const char *ptr, const char *end,$/;"	f	file:
+scanCdataSection	.\xmltok_impl.c	/^PREFIX(scanCdataSection)(const ENCODING *enc, const char *ptr,$/;"	f	file:
+scanCharRef	.\xmltok_impl.c	/^PREFIX(scanCharRef)(const ENCODING *enc, const char *ptr,$/;"	f	file:
+scanComment	.\xmltok_impl.c	/^PREFIX(scanComment)(const ENCODING *enc, const char *ptr,$/;"	f	file:
+scanDecl	.\xmltok_impl.c	/^PREFIX(scanDecl)(const ENCODING *enc, const char *ptr,$/;"	f	file:
+scanEndTag	.\xmltok_impl.c	/^PREFIX(scanEndTag)(const ENCODING *enc, const char *ptr,$/;"	f	file:
+scanHexCharRef	.\xmltok_impl.c	/^PREFIX(scanHexCharRef)(const ENCODING *enc, const char *ptr,$/;"	f	file:
+scanLit	.\xmltok_impl.c	/^PREFIX(scanLit)(int open, const ENCODING *enc,$/;"	f	file:
+scanLt	.\xmltok_impl.c	/^PREFIX(scanLt)(const ENCODING *enc, const char *ptr, const char *end,$/;"	f	file:
+scanPercent	.\xmltok_impl.c	/^PREFIX(scanPercent)(const ENCODING *enc, const char *ptr, const char *end,$/;"	f	file:
+scanPi	.\xmltok_impl.c	/^PREFIX(scanPi)(const ENCODING *enc, const char *ptr,$/;"	f	file:
+scanPoundName	.\xmltok_impl.c	/^PREFIX(scanPoundName)(const ENCODING *enc, const char *ptr, const char *end,$/;"	f	file:
+scanRef	.\xmltok_impl.c	/^PREFIX(scanRef)(const ENCODING *enc, const char *ptr, const char *end,$/;"	f	file:
+scanners	.\xmltok.h	/^  SCANNER scanners[XML_N_STATES];$/;"	m	struct:encoding
+setContext	.\xmlparse.c	/^setContext(XML_Parser parser, const XML_Char *context)$/;"	f	file:
+setElementTypePrefix	.\xmlparse.c	/^setElementTypePrefix(XML_Parser parser, ELEMENT_TYPE *elementType)$/;"	f	file:
+setTopLevel	.\xmlrole.c	93;"	d	file:
+setTopLevel	.\xmlrole.c	98;"	d	file:
+size	.\xmlparse.c	/^  int size;$/;"	m	struct:block	file:
+size	.\xmlparse.c	/^  size_t size;$/;"	m	struct:__anon7	file:
+size_t	.\macconfig.h	50;"	d
+skipS	.\xmltok.h	/^  const char *(PTRFASTCALL *skipS)(const ENCODING *, const char *);$/;"	m	struct:encoding
+skipS	.\xmltok_impl.c	/^PREFIX(skipS)(const ENCODING *enc, const char *ptr)$/;"	f	file:
+skippedEntityHandler	.\xmlparse.c	582;"	d	file:
+standalone	.\xmlparse.c	/^  XML_Bool standalone;$/;"	m	struct:__anon16	file:
+start	.\xmlparse.c	/^  XML_Char *start;$/;"	m	struct:__anon12	file:
+startCdataSectionHandler	.\xmlparse.c	563;"	d	file:
+startDoctypeDeclHandler	.\xmlparse.c	567;"	d	file:
+startElementHandler	.\xmlparse.c	557;"	d	file:
+startNamespaceDeclHandler	.\xmlparse.c	572;"	d	file:
+startTagLevel	.\xmlparse.c	/^  int startTagLevel;$/;"	m	struct:open_internal_entity	file:
+storeAttributeValue	.\xmlparse.c	/^storeAttributeValue(XML_Parser parser, const ENCODING *enc, XML_Bool isCdata,$/;"	f	file:
+storeAtts	.\xmlparse.c	/^storeAtts(XML_Parser parser, const ENCODING *enc,$/;"	f	file:
+storeEntityValue	.\xmlparse.c	/^storeEntityValue(XML_Parser parser,$/;"	f	file:
+storeRawNames	.\xmlparse.c	/^storeRawNames(XML_Parser parser)$/;"	f	file:
+str	.\xmlparse.c	/^  const XML_Char *str;$/;"	m	struct:__anon9	file:
+strLen	.\xmlparse.c	/^  int strLen;$/;"	m	struct:__anon9	file:
+streqci	.\xmltok.c	/^streqci(const char *s1, const char *s2)$/;"	f	file:
+systemId	.\xmlparse.c	/^  const XML_Char *systemId;$/;"	m	struct:__anon10	file:
+tag	.\xmlparse.c	/^typedef struct tag {$/;"	s	file:
+tagLevel	.\xmlparse.c	610;"	d	file:
+tagStack	.\xmlparse.c	635;"	d	file:
+temp2Pool	.\xmlparse.c	644;"	d	file:
+tempPool	.\xmlparse.c	643;"	d	file:
+textLen	.\xmlparse.c	/^  int textLen;                  \/* length in XML_Chars *\/$/;"	m	struct:__anon10	file:
+textPtr	.\xmlparse.c	/^  const XML_Char *textPtr;$/;"	m	struct:__anon10	file:
+toAscii	.\xmltok.c	/^toAscii(const ENCODING *enc, const char *ptr, const char *end)$/;"	f	file:
+type	.\expat.h	/^  enum XML_Content_Type         type;$/;"	m	struct:XML_cp	typeref:enum:XML_cp::XML_Content_Type
+type	.\xmlparse.c	/^  enum XML_Content_Type         type;$/;"	m	struct:__anon11	typeref:enum:__anon11::XML_Content_Type	file:
+type	.\xmltok.c	/^  unsigned char type[256];$/;"	m	struct:normal_encoding	file:
+unicode_byte_type	.\xmltok.c	/^unicode_byte_type(char hi, char lo)$/;"	f	file:
+unknownEncodingData	.\xmlparse.c	592;"	d	file:
+unknownEncodingHandler	.\xmlparse.c	583;"	d	file:
+unknownEncodingHandlerData	.\xmlparse.c	593;"	d	file:
+unknownEncodingMem	.\xmlparse.c	591;"	d	file:
+unknownEncodingRelease	.\xmlparse.c	595;"	d	file:
+unknown_encoding	.\xmltok.c	/^struct unknown_encoding {$/;"	s	file:
+unknown_isInvalid	.\xmltok.c	/^unknown_isInvalid(const ENCODING *enc, const char *p)$/;"	f	file:
+unknown_isName	.\xmltok.c	/^unknown_isName(const ENCODING *enc, const char *p)$/;"	f	file:
+unknown_isNmstrt	.\xmltok.c	/^unknown_isNmstrt(const ENCODING *enc, const char *p)$/;"	f	file:
+unknown_toUtf16	.\xmltok.c	/^unknown_toUtf16(const ENCODING *enc,$/;"	f	file:
+unknown_toUtf8	.\xmltok.c	/^unknown_toUtf8(const ENCODING *enc,$/;"	f	file:
+unparsedEntityDeclHandler	.\xmlparse.c	569;"	d	file:
+updatePosition	.\xmltok.h	/^  void (PTRCALL *updatePosition)(const ENCODING *,$/;"	m	struct:encoding
+updatePosition	.\xmltok_impl.c	/^PREFIX(updatePosition)(const ENCODING *enc,$/;"	f	file:
+uri	.\xmlparse.c	/^  XML_Char *uri;$/;"	m	struct:binding	file:
+uriAlloc	.\xmlparse.c	/^  int uriAlloc;$/;"	m	struct:binding	file:
+uriLen	.\xmlparse.c	/^  int uriLen;$/;"	m	struct:__anon9	file:
+uriLen	.\xmlparse.c	/^  int uriLen;$/;"	m	struct:binding	file:
+uriName	.\xmlparse.c	/^  const XML_Char *uriName;$/;"	m	struct:__anon14	file:
+useForeignDTD	.\xmlparse.c	653;"	d	file:
+used	.\xmlparse.c	/^  size_t used;$/;"	m	struct:__anon7	file:
+userData	.\xmlparse.c	555;"	d	file:
+userData	.\xmltok.c	/^  void *userData;$/;"	m	struct:unknown_encoding	file:
+utf16	.\xmltok.c	/^  unsigned short utf16[256];$/;"	m	struct:unknown_encoding	file:
+utf16Convert	.\xmltok.h	/^  void (PTRCALL *utf16Convert)(const ENCODING *enc,$/;"	m	struct:encoding
+utf8	.\xmltok.c	/^  char utf8[256][4];$/;"	m	struct:unknown_encoding	file:
+utf8Convert	.\xmltok.h	/^  void (PTRCALL *utf8Convert)(const ENCODING *enc,$/;"	m	struct:encoding
+utf8_encoding	.\xmltok.c	/^static const struct normal_encoding utf8_encoding = {$/;"	v	typeref:struct:normal_encoding	file:
+utf8_encoding_ns	.\xmltok.c	/^static const struct normal_encoding utf8_encoding_ns = {$/;"	v	typeref:struct:normal_encoding	file:
+utf8_isInvalid2	.\xmltok.c	/^utf8_isInvalid2(const ENCODING *enc, const char *p)$/;"	f	file:
+utf8_isInvalid3	.\xmltok.c	/^utf8_isInvalid3(const ENCODING *enc, const char *p)$/;"	f	file:
+utf8_isInvalid4	.\xmltok.c	/^utf8_isInvalid4(const ENCODING *enc, const char *p)$/;"	f	file:
+utf8_isName2	.\xmltok.c	/^utf8_isName2(const ENCODING *enc, const char *p)$/;"	f	file:
+utf8_isName3	.\xmltok.c	/^utf8_isName3(const ENCODING *enc, const char *p)$/;"	f	file:
+utf8_isName4	.\xmltok.c	142;"	d	file:
+utf8_isNmstrt2	.\xmltok.c	/^utf8_isNmstrt2(const ENCODING *enc, const char *p)$/;"	f	file:
+utf8_isNmstrt3	.\xmltok.c	/^utf8_isNmstrt3(const ENCODING *enc, const char *p)$/;"	f	file:
+utf8_isNmstrt4	.\xmltok.c	156;"	d	file:
+utf8_toUtf16	.\xmltok.c	/^utf8_toUtf16(const ENCODING *enc,$/;"	f	file:
+utf8_toUtf8	.\xmltok.c	/^utf8_toUtf8(const ENCODING *enc,$/;"	f	file:
+v	.\xmlparse.c	/^  NAMED **v;$/;"	m	struct:__anon7	file:
+value	.\expat.h	/^  long int              value;$/;"	m	struct:__anon5
+value	.\xmlparse.c	/^  const XML_Char *value;$/;"	m	struct:__anon13	file:
+valueEnd	.\xmltok.h	/^  const char *valueEnd;$/;"	m	struct:__anon20
+valuePtr	.\xmltok.h	/^  const char *valuePtr;$/;"	m	struct:__anon20
+version	.\xmlparse.c	/^  unsigned long version;$/;"	m	struct:__anon14	file:
+versionEndPtr	.\xmltok.c	/^               const char **versionEndPtr,$/;"	v	file:
+versionPtr	.\xmltok.c	/^               const char **versionPtr,$/;"	v	file:
+xmlDeclHandler	.\xmlparse.c	587;"	d	file:
+xmlns	.\xmlparse.c	/^  XML_Bool xmlns;$/;"	m	struct:attribute_id	file:
